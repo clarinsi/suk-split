@@ -1,0 +1,1742 @@
+# newdoc id = GF0109511
+# title = Dolenjski list
+# publisher = 1994-05
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 1994-05
+# term = print / periodic / newspaper
+# newpar id = GF0109511.8
+# sent_id = GF0109511.8.2
+# text = Štiri naselja so izločena iz sedanje občine in priključena k drugima območjema, vsa neselja iz KS Bučka pa priključena k 179. območju Škocjan.
+1	Štiri	štirje	števnik	Kbgsmi	sklon=imenovalnik|spol=srednji|vrsta=glavni|zapis=besedni|število=množina	_	_	_	_
+2	naselja	naselje	samostalnik	Sosmi	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	_
+3	so	biti	glagol	Gp-stm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+4	izločena	izločen	pridevnik	Pdnsmi	sklon=imenovalnik|spol=srednji|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+5	iz	iz	predlog	Dr	sklon=rodilnik	_	_	_	_
+6	sedanje	sedanji	pridevnik	Ppnzer	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+7	občine	občina	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+8	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+9	priključena	priključen	pridevnik	Pdnsmi	sklon=imenovalnik|spol=srednji|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+10	k	k	predlog	Dd	sklon=dajalnik	_	_	_	_
+11	drugima	drug	števnik	Kbzsdd	sklon=dajalnik|spol=srednji|vrsta=zaimkovni|zapis=besedni|število=dvojina	_	_	_	_
+12	območjema	območje	samostalnik	Sosdd	sklon=dajalnik|spol=srednji|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+13	,	,	ločilo	U	_	_	_	_	_
+14	vsa	ves	zaimek	Zc-smi	sklon=imenovalnik|spol=srednji|vrsta=celostni|število=množina	_	_	_	_
+15	neselja	neselja	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+16	iz	iz	predlog	Dr	sklon=rodilnik	_	_	_	_
+17	KS	KS	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+18	Bučka	Bučka	samostalnik	Slzei	sklon=imenovalnik|spol=ženski|vrsta=lastno_ime|število=ednina	_	_	_	_
+19	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+20	priključena	priključen	pridevnik	Pdnsmi	sklon=imenovalnik|spol=srednji|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+21	k	k	predlog	Dd	sklon=dajalnik	_	_	_	_
+22	179.	179.	števnik	Kav	vrsta=vrstilni|zapis=arabski	_	_	_	_
+23	območju	območje	samostalnik	Sosed	sklon=dajalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+24	Škocjan	Škocjan	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	SpaceAfter=No
+25	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF5085153
+# title = INTERNET www.sta.si (2014-11)
+# publisher = 2014-11
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2014-11
+# term = internet
+# newpar id = GF5085153.638
+# sent_id = GF5085153.638.8
+# text = "Prepričan sem, da bo vajino vodstvo prineslo mir in stabilnost v vajinih državah ter prispevalo k povezovanju Aseana," je povedal Thein Sein.
+1	"	"	ločilo	U	_	_	_	_	SpaceAfter=No
+2	Prepričan	prepričan	pridevnik	Pdnmein	določnost=ne|sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	_
+3	sem	biti	glagol	Gp-spe-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vrsta=pomožni|število=ednina	_	_	_	SpaceAfter=No
+4	,	,	ločilo	U	_	_	_	_	_
+5	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+6	bo	biti	glagol	Gp-pte-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+7	vajino	vajin	zaimek	Zsdseid	oseba=druga|sklon=imenovalnik|spol=srednji|vrsta=svojilni|število=ednina|število_svojine=dvojina	_	_	_	_
+8	vodstvo	vodstvo	samostalnik	Sosei	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+9	prineslo	prinesti	glagol	Ggdd-es	oblika=deležnik|spol=srednji|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+10	mir	mir	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	_
+11	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+12	stabilnost	stabilnost	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+13	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+14	vajinih	vajin	zaimek	Zsdzdmd	oseba=druga|sklon=mestnik|spol=ženski|vrsta=svojilni|število=dvojina|število_svojine=dvojina	_	_	_	_
+15	državah	država	samostalnik	Sozdm	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=dvojina	_	_	_	_
+16	ter	ter	veznik	Vp	vrsta=priredni	_	_	_	_
+17	prispevalo	prispevati	glagol	Ggvd-es	oblika=deležnik|spol=srednji|vid=dvovidski|vrsta=glavni|število=ednina	_	_	_	_
+18	k	k	predlog	Dd	sklon=dajalnik	_	_	_	_
+19	povezovanju	povezovanje	samostalnik	Sosed	sklon=dajalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+20	Aseana	Asean	samostalnik	Slmer	sklon=rodilnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	SpaceAfter=No
+21	,	,	ločilo	U	_	_	_	_	SpaceAfter=No
+22	"	"	ločilo	U	_	_	_	_	_
+23	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+24	povedal	povedati	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+25	Thein	Thein	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+26	Sein	Sein	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	SpaceAfter=No
+27	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF7027485
+# title = Delo
+# publisher = 2000-08-11
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2000-08-11
+# term = print / periodic / newspaper
+# newpar id = GF7027485.13
+# sent_id = GF7027485.13.2
+# text = Morda pa ti pove tudi zgodbo o dveh Slovencih, ki sta razvedrila vso restavracijo, ko sta hotela pred dnevi menjati marke v jugoslovanske dinarje, da bi plačala zapitek.
+1	Morda	morda	členek	L	_	_	_	_	_
+2	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+3	ti	ti	zaimek	Zod-ed--k	naslonskost=klitična|oseba=druga|sklon=dajalnik|vrsta=osebni|število=ednina	_	_	_	_
+4	pove	povedati	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+5	tudi	tudi	členek	L	_	_	_	_	_
+6	zgodbo	zgodba	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+7	o	o	predlog	Dm	sklon=mestnik	_	_	_	_
+8	dveh	dva	števnik	Kbgmdm	sklon=mestnik|spol=moški|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+9	Slovencih	Slovenec	samostalnik	Slmdm	sklon=mestnik|spol=moški|vrsta=lastno_ime|število=dvojina	_	_	_	SpaceAfter=No
+10	,	,	ločilo	U	_	_	_	_	_
+11	ki	ki	veznik	Vd	vrsta=podredni	_	_	_	_
+12	sta	biti	glagol	Gp-std-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=dvojina	_	_	_	_
+13	razvedrila	razvedriti	glagol	Ggdd-dm	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=dvojina	_	_	_	_
+14	vso	ves	zaimek	Zc-zet	sklon=tožilnik|spol=ženski|vrsta=celostni|število=ednina	_	_	_	_
+15	restavracijo	restavracija	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+16	,	,	ločilo	U	_	_	_	_	_
+17	ko	ko	veznik	Vd	vrsta=podredni	_	_	_	_
+18	sta	biti	glagol	Gp-std-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=dvojina	_	_	_	_
+19	hotela	hoteti	glagol	Ggnd-dm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=dvojina	_	_	_	_
+20	pred	pred	predlog	Do	sklon=orodnik	_	_	_	_
+21	dnevi	dan	samostalnik	Sommo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+22	menjati	menjati	glagol	Ggdn	oblika=nedoločnik|vid=dovršni|vrsta=glavni	_	_	_	_
+23	marke	marka	samostalnik	Sozmt	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+24	v	v	predlog	Dt	sklon=tožilnik	_	_	_	_
+25	jugoslovanske	jugoslovanski	pridevnik	Ppnmmt	sklon=tožilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+26	dinarje	dinar	samostalnik	Sommt	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+27	,	,	ločilo	U	_	_	_	_	_
+28	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+29	bi	biti	glagol	Gp-g	oblika=pogojnik|vrsta=pomožni	_	_	_	_
+30	plačala	plačati	glagol	Ggdd-dm	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=dvojina	_	_	_	_
+31	zapitek	zapitek	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	SpaceAfter=No
+32	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF1309248
+# title = Mladina
+# publisher = 1993-08-08
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 1993-08-08
+# term = print / periodic / magazine
+# newpar id = GF1309248.393
+# sent_id = GF1309248.393.2
+# text = Tako se na novo ustvarja klima peklenska, napolnjena s sovraštvom, intrigami, z vsem onim, kar resnični branilci domovine pač niso pričakovali iz tvojih ust.
+1	Tako	tako	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+2	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+3	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+4	novo	nov	pridevnik	Ppnset	sklon=tožilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+5	ustvarja	ustvarjati	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+6	klima	klima	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+7	peklenska	peklenski	pridevnik	Ppnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	SpaceAfter=No
+8	,	,	ločilo	U	_	_	_	_	_
+9	napolnjena	napolnjen	pridevnik	Pdnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	_
+10	s	z	predlog	Do	sklon=orodnik	_	_	_	_
+11	sovraštvom	sovraštvo	samostalnik	Soseo	sklon=orodnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+12	,	,	ločilo	U	_	_	_	_	_
+13	intrigami	intriga	samostalnik	Sozmo	sklon=orodnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+14	,	,	ločilo	U	_	_	_	_	_
+15	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+16	vsem	ves	zaimek	Zc-seo	sklon=orodnik|spol=srednji|vrsta=celostni|število=ednina	_	_	_	_
+17	onim	oni	zaimek	Zk-seo	sklon=orodnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	SpaceAfter=No
+18	,	,	ločilo	U	_	_	_	_	_
+19	kar	kar	zaimek	Zz-set	sklon=tožilnik|spol=srednji|vrsta=oziralni|število=ednina	_	_	_	_
+20	resnični	resničen	pridevnik	Ppnmmi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+21	branilci	branilec	samostalnik	Sommi	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+22	domovine	domovina	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+23	pač	pač	členek	L	_	_	_	_	_
+24	niso	biti	glagol	Gp-stm-d	nikalnost=zanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+25	pričakovali	pričakovati	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+26	iz	iz	predlog	Dr	sklon=rodilnik	_	_	_	_
+27	tvojih	tvoj	zaimek	Zsdsmre	oseba=druga|sklon=rodilnik|spol=srednji|vrsta=svojilni|število=množina|število_svojine=ednina	_	_	_	_
+28	ust	usta	samostalnik	Sosmr	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+29	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF1402444
+# title = PIL plus
+# publisher = 2004
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2004
+# term = print / periodic / magazine
+# newpar id = GF1402444.16298
+# sent_id = GF1402444.16298.4
+# text = XXXX, naredi ono, naredi ono ...«, ampak jaz ji ustrežem, ker se bojim, da bom potem brez frendov.
+1	XXXX	XXXX	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	SpaceAfter=No
+2	,	,	ločilo	U	_	_	_	_	_
+3	naredi	narediti	glagol	Ggdvde	oblika=velelnik|oseba=druga|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+4	ono	oni	zaimek	Zk-set	sklon=tožilnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	SpaceAfter=No
+5	,	,	ločilo	U	_	_	_	_	_
+6	naredi	narediti	glagol	Ggdvde	oblika=velelnik|oseba=druga|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+7	ono	oni	zaimek	Zk-set	sklon=tožilnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	_
+8	.	.	ločilo	U	_	_	_	_	SpaceAfter=No
+9	.	.	ločilo	U	_	_	_	_	SpaceAfter=No
+10	.	.	ločilo	U	_	_	_	_	SpaceAfter=No
+11	«	«	ločilo	U	_	_	_	_	SpaceAfter=No
+12	,	,	ločilo	U	_	_	_	_	_
+13	ampak	ampak	veznik	Vp	vrsta=priredni	_	_	_	_
+14	jaz	jaz	zaimek	Zop-ei	oseba=prva|sklon=imenovalnik|vrsta=osebni|število=ednina	_	_	_	_
+15	ji	on	zaimek	Zotzed--k	naslonskost=klitična|oseba=tretja|sklon=dajalnik|spol=ženski|vrsta=osebni|število=ednina	_	_	_	_
+16	ustrežem	ustreči	glagol	Ggdspe	oblika=sedanjik|oseba=prva|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+17	,	,	ločilo	U	_	_	_	_	_
+18	ker	ker	veznik	Vd	vrsta=podredni	_	_	_	_
+19	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+20	bojim	bati	glagol	Ggnspe	oblika=sedanjik|oseba=prva|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+21	,	,	ločilo	U	_	_	_	_	_
+22	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+23	bom	biti	glagol	Gp-ppe-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=prva|vrsta=pomožni|število=ednina	_	_	_	_
+24	potem	potem	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+25	brez	brez	predlog	Dr	sklon=rodilnik	_	_	_	_
+26	frendov	frend	samostalnik	Sommr	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+27	.	.	ločilo	U	_	_	_	_	_
+
+# newpar id = GF1402444.16678
+# sent_id = GF1402444.16678.10
+# text = Če si mu všeč, če čuti tako, kot se tebi zdi, potem se lahko tiste »prijateljice« postavijo na trepalnice, lahko napišejo trideset romanov o tem, kako vidva nista za skupaj, lahko pišejo v Združene narode, da so one bolj primerne zanj, ga to ne bo prav nič motilo.
+1	Če	če	veznik	Vd	vrsta=podredni	_	_	_	_
+2	si	se	zaimek	Zp---d--k	naslonskost=klitična|sklon=dajalnik|vrsta=povratni	_	_	_	_
+3	mu	on	zaimek	Zotmed--k	naslonskost=klitična|oseba=tretja|sklon=dajalnik|spol=moški|vrsta=osebni|število=ednina	_	_	_	_
+4	všeč	všeč	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	SpaceAfter=No
+5	,	,	ločilo	U	_	_	_	_	_
+6	če	če	veznik	Vd	vrsta=podredni	_	_	_	_
+7	čuti	čutiti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+8	tako	tako	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	SpaceAfter=No
+9	,	,	ločilo	U	_	_	_	_	_
+10	kot	kot	veznik	Vd	vrsta=podredni	_	_	_	_
+11	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+12	tebi	ti	zaimek	Zod-ed	oseba=druga|sklon=dajalnik|vrsta=osebni|število=ednina	_	_	_	_
+13	zdi	zdeti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+14	,	,	ločilo	U	_	_	_	_	_
+15	potem	potem	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+16	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+17	lahko	lahko	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+18	tiste	tisti	zaimek	Zk-zmi	sklon=imenovalnik|spol=ženski|vrsta=kazalni|število=množina	_	_	_	_
+19	»	»	ločilo	U	_	_	_	_	SpaceAfter=No
+20	prijateljice	prijateljica	samostalnik	Sozmi	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+21	«	«	ločilo	U	_	_	_	_	_
+22	postavijo	postaviti	glagol	Ggdstm	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=množina	_	_	_	_
+23	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+24	trepalnice	trepalnica	samostalnik	Sozmt	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+25	,	,	ločilo	U	_	_	_	_	_
+26	lahko	lahko	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+27	napišejo	napisati	glagol	Ggdstm	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=množina	_	_	_	_
+28	trideset	trideset	števnik	Kbg-mt	sklon=tožilnik|vrsta=glavni|zapis=besedni|število=množina	_	_	_	_
+29	romanov	roman	samostalnik	Sommr	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+30	o	o	predlog	Dm	sklon=mestnik	_	_	_	_
+31	tem	ta	zaimek	Zk-sem	sklon=mestnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	SpaceAfter=No
+32	,	,	ločilo	U	_	_	_	_	_
+33	kako	kako	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+34	vidva	ti	zaimek	Zopmdi	oseba=prva|sklon=imenovalnik|spol=moški|vrsta=osebni|število=dvojina	_	_	_	_
+35	nista	biti	glagol	Gp-sdd-d	nikalnost=zanikani|oblika=sedanjik|oseba=druga|vrsta=pomožni|število=dvojina	_	_	_	_
+36	za	za	predlog	Dt	sklon=tožilnik	_	_	_	_
+37	skupaj	skupaj	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	SpaceAfter=No
+38	,	,	ločilo	U	_	_	_	_	_
+39	lahko	lahko	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+40	pišejo	pisati	glagol	Ggnstm	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+41	v	v	predlog	Dt	sklon=tožilnik	_	_	_	_
+42	Združene	združen	pridevnik	Pdnmmt	sklon=tožilnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+43	narode	narod	samostalnik	Sommt	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+44	,	,	ločilo	U	_	_	_	_	_
+45	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+46	so	biti	glagol	Gp-stm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+47	one	on	zaimek	Zotzmi	oseba=tretja|sklon=imenovalnik|spol=ženski|vrsta=osebni|število=množina	_	_	_	_
+48	bolj	bolj	prislov	Rsr	stopnja=primernik|vrsta=splošni	_	_	_	_
+49	primerne	primeren	pridevnik	Ppnzmi	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+50	zanj	zame	zaimek	Zotmet--z	naslonskost=navezna|oseba=tretja|sklon=tožilnik|spol=moški|vrsta=osebni|število=ednina	_	_	_	SpaceAfter=No
+51	,	,	ločilo	U	_	_	_	_	_
+52	ga	on	zaimek	Zotmet--k	naslonskost=klitična|oseba=tretja|sklon=tožilnik|spol=moški|vrsta=osebni|število=ednina	_	_	_	_
+53	to	ta	zaimek	Zk-sei	sklon=imenovalnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	_
+54	ne	ne	členek	L	_	_	_	_	_
+55	bo	biti	glagol	Gp-pte-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+56	prav	prav	členek	L	_	_	_	_	_
+57	nič	nič	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+58	motilo	motiti	glagol	Ggnd-es	oblika=deležnik|spol=srednji|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+59	.	.	ločilo	U	_	_	_	_	_
+
+# newpar id = GF1402444.21409
+# sent_id = GF1402444.21409.4
+# text = Mlinček v tvojih ustih melje in melje, drugi organi, kot so oči in ušesa, pa sploh ne zaznajo, da so s tvojimi monologi že vsi zasičeni.
+1	Mlinček	mlinček	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+2	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+3	tvojih	tvoj	zaimek	Zsdsmme	oseba=druga|sklon=mestnik|spol=srednji|vrsta=svojilni|število=množina|število_svojine=ednina	_	_	_	_
+4	ustih	usta	samostalnik	Sosmm	sklon=mestnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	_
+5	melje	mleti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+6	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+7	melje	mleti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+8	,	,	ločilo	U	_	_	_	_	_
+9	drugi	drug	števnik	Kbzmmi	sklon=imenovalnik|spol=moški|vrsta=zaimkovni|zapis=besedni|število=množina	_	_	_	_
+10	organi	organ	samostalnik	Sommi	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+11	,	,	ločilo	U	_	_	_	_	_
+12	kot	kot	veznik	Vd	vrsta=podredni	_	_	_	_
+13	so	biti	glagol	Gp-stm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+14	oči	oči	samostalnik	Sozmi	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+15	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+16	ušesa	uho	samostalnik	Sosmi	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+17	,	,	ločilo	U	_	_	_	_	_
+18	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+19	sploh	sploh	členek	L	_	_	_	_	_
+20	ne	ne	členek	L	_	_	_	_	_
+21	zaznajo	zaznati	glagol	Ggdstm	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=množina	_	_	_	SpaceAfter=No
+22	,	,	ločilo	U	_	_	_	_	_
+23	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+24	so	biti	glagol	Gp-stm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+25	s	z	predlog	Do	sklon=orodnik	_	_	_	_
+26	tvojimi	tvoj	zaimek	Zsdmmoe	oseba=druga|sklon=orodnik|spol=moški|vrsta=svojilni|število=množina|število_svojine=ednina	_	_	_	_
+27	monologi	monolog	samostalnik	Sommo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+28	že	že	členek	L	_	_	_	_	_
+29	vsi	ves	zaimek	Zc-mmi	sklon=imenovalnik|spol=moški|vrsta=celostni|število=množina	_	_	_	_
+30	zasičeni	zasičen	pridevnik	Pdnmmi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	SpaceAfter=No
+31	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF2454434
+# title = Viva : revija za zdravo življenje
+# publisher = 2005
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2005
+# term = print / periodic / magazine
+# newpar id = GF2454434.14850
+# sent_id = GF2454434.14850.1
+# text = Sami ste dobro uganili, od kod se je vzela ta koprena, ki vajinima srcema preprečuje, da bi se čutili.
+1	Sami	sam	pridevnik	Ppnmmi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+2	ste	biti	glagol	Gp-sdm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=druga|vrsta=pomožni|število=množina	_	_	_	_
+3	dobro	dobro	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+4	uganili	uganiti	glagol	Ggdd-mm	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=množina	_	_	_	SpaceAfter=No
+5	,	,	ločilo	U	_	_	_	_	_
+6	od	od	predlog	Dr	sklon=rodilnik	_	_	_	_
+7	kod	kod	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+8	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+9	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+10	vzela	vzeti	glagol	Ggdd-ez	oblika=deležnik|spol=ženski|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+11	ta	ta	zaimek	Zk-zei	sklon=imenovalnik|spol=ženski|vrsta=kazalni|število=ednina	_	_	_	_
+12	koprena	koprena	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+13	,	,	ločilo	U	_	_	_	_	_
+14	ki	ki	veznik	Vd	vrsta=podredni	_	_	_	_
+15	vajinima	vajin	zaimek	Zsdsddd	oseba=druga|sklon=dajalnik|spol=srednji|vrsta=svojilni|število=dvojina|število_svojine=dvojina	_	_	_	_
+16	srcema	srce	samostalnik	Sosdd	sklon=dajalnik|spol=srednji|vrsta=občno_ime|število=dvojina	_	_	_	_
+17	preprečuje	preprečevati	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+18	,	,	ločilo	U	_	_	_	_	_
+19	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+20	bi	biti	glagol	Gp-g	oblika=pogojnik|vrsta=pomožni	_	_	_	_
+21	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+22	čutili	čutiti	glagol	Ggnd-ds	oblika=deležnik|spol=srednji|vid=nedovršni|vrsta=glavni|število=dvojina	_	_	_	SpaceAfter=No
+23	.	.	ločilo	U	_	_	_	_	_
+
+# newpar id = GF2454434.31205
+# sent_id = GF2454434.31205.3
+# text = Pri tovrstnem prenajedanju človek je, čeprav nima fiziološke potrebe po hrani oziroma ni lačen.
+1	Pri	pri	predlog	Dm	sklon=mestnik	_	_	_	_
+2	tovrstnem	tovrsten	pridevnik	Ppnsem	sklon=mestnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+3	prenajedanju	prenajedanje	samostalnik	Sosem	sklon=mestnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+4	človek	človek	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+5	je	jesti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+6	,	,	ločilo	U	_	_	_	_	_
+7	čeprav	čeprav	veznik	Vd	vrsta=podredni	_	_	_	_
+8	nima	imeti	glagol	Ggnste-d	nikalnost=zanikani|oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+9	fiziološke	fiziološki	pridevnik	Ppnzer	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+10	potrebe	potreba	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+11	po	po	predlog	Dm	sklon=mestnik	_	_	_	_
+12	hrani	hrana	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+13	oziroma	oziroma	veznik	Vp	vrsta=priredni	_	_	_	_
+14	ni	biti	glagol	Gp-ste-d	nikalnost=zanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+15	lačen	lačen	pridevnik	Ppnmein	določnost=ne|sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	SpaceAfter=No
+16	.	.	ločilo	U	_	_	_	_	_
+
+# newpar id = GF2454434.32656
+# sent_id = GF2454434.32656.1
+# text = Pogosto se zgodi, da se ji zelo mudi, ona pa bolj počasi je in takrat poje zelo malo in je hitro spet lačna.
+1	Pogosto	pogosto	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+2	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+3	zgodi	zgoditi	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+4	,	,	ločilo	U	_	_	_	_	_
+5	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+6	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+7	ji	on	zaimek	Zotzed--k	naslonskost=klitična|oseba=tretja|sklon=dajalnik|spol=ženski|vrsta=osebni|število=ednina	_	_	_	_
+8	zelo	zelo	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+9	mudi	muditi	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+10	,	,	ločilo	U	_	_	_	_	_
+11	ona	on	zaimek	Zotzei	oseba=tretja|sklon=imenovalnik|spol=ženski|vrsta=osebni|število=ednina	_	_	_	_
+12	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+13	bolj	bolj	prislov	Rsr	stopnja=primernik|vrsta=splošni	_	_	_	_
+14	počasi	počasi	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+15	je	jesti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+16	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+17	takrat	takrat	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+18	poje	pojesti	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+19	zelo	zelo	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+20	malo	malo	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+21	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+22	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+23	hitro	hitro	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+24	spet	spet	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+25	lačna	lačen	pridevnik	Ppnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	SpaceAfter=No
+26	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF6275628
+# title = Nedeljski dnevnik
+# publisher = 2009
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2009
+# term = print / periodic / newspaper
+# newpar id = GF6275628.30003
+# sent_id = GF6275628.30003.5
+# text = Že vidim, da z barvami ne bova prišla do konca, ker je zadeva jako zapletena, zato bodiva bolj konkretna. A tudi tu bo zadeva težka, to pa zaradi omenjenih dveh zornih kotov oziroma dejstva, da vsaka stran vztraja pri svojem, in seveda zaradi vprašanja, kaj je bilo prej, jajce ali kura.
+1	Že	že	členek	L	_	_	_	_	_
+2	vidim	videti	glagol	Ggvspe	oblika=sedanjik|oseba=prva|vid=dvovidski|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+3	,	,	ločilo	U	_	_	_	_	_
+4	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+5	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+6	barvami	barva	samostalnik	Sozmo	sklon=orodnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+7	ne	ne	členek	L	_	_	_	_	_
+8	bova	biti	glagol	Gp-ppd-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=prva|vrsta=pomožni|število=dvojina	_	_	_	_
+9	prišla	priti	glagol	Ggdd-dm	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=dvojina	_	_	_	_
+10	do	do	predlog	Dr	sklon=rodilnik	_	_	_	_
+11	konca	konec	samostalnik	Somer	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+12	,	,	ločilo	U	_	_	_	_	_
+13	ker	ker	veznik	Vd	vrsta=podredni	_	_	_	_
+14	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+15	zadeva	zadeva	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+16	jako	jako	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+17	zapletena	zapleten	pridevnik	Ppnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	SpaceAfter=No
+18	,	,	ločilo	U	_	_	_	_	_
+19	zato	zato	veznik	Vp	vrsta=priredni	_	_	_	_
+20	bodiva	biti	glagol	Gp-vpd	oblika=velelnik|oseba=prva|vrsta=pomožni|število=dvojina	_	_	_	_
+21	bolj	bolj	prislov	Rsr	stopnja=primernik|vrsta=splošni	_	_	_	_
+22	konkretna	konkreten	pridevnik	Ppnmdi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=dvojina	_	_	_	SpaceAfter=No
+23	.	.	ločilo	U	_	_	_	_	_
+24	A	a	veznik	Vp	vrsta=priredni	_	_	_	_
+25	tudi	tudi	členek	L	_	_	_	_	_
+26	tu	tu	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+27	bo	biti	glagol	Gp-pte-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+28	zadeva	zadeva	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+29	težka	težek	pridevnik	Ppnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	SpaceAfter=No
+30	,	,	ločilo	U	_	_	_	_	_
+31	to	ta	zaimek	Zk-sei	sklon=imenovalnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	_
+32	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+33	zaradi	zaradi	predlog	Dr	sklon=rodilnik	_	_	_	_
+34	omenjenih	omenjen	pridevnik	Pdnmdr	sklon=rodilnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=dvojina	_	_	_	_
+35	dveh	dva	števnik	Kbgmdr	sklon=rodilnik|spol=moški|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+36	zornih	zoren	pridevnik	Ppnmdr	sklon=rodilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=dvojina	_	_	_	_
+37	kotov	kot	samostalnik	Somdr	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=dvojina	_	_	_	_
+38	oziroma	oziroma	veznik	Vp	vrsta=priredni	_	_	_	_
+39	dejstva	dejstvo	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+40	,	,	ločilo	U	_	_	_	_	_
+41	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+42	vsaka	vsak	zaimek	Zc-zei	sklon=imenovalnik|spol=ženski|vrsta=celostni|število=ednina	_	_	_	_
+43	stran	stran	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+44	vztraja	vztrajati	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+45	pri	pri	predlog	Dm	sklon=mestnik	_	_	_	_
+46	svojem	svoj	zaimek	Zp-sem	sklon=mestnik|spol=srednji|vrsta=povratni|število=ednina	_	_	_	SpaceAfter=No
+47	,	,	ločilo	U	_	_	_	_	_
+48	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+49	seveda	seveda	členek	L	_	_	_	_	_
+50	zaradi	zaradi	predlog	Dr	sklon=rodilnik	_	_	_	_
+51	vprašanja	vprašanje	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+52	,	,	ločilo	U	_	_	_	_	_
+53	kaj	kaj	zaimek	Zv-sei	sklon=imenovalnik|spol=srednji|vrsta=vprašalni|število=ednina	_	_	_	_
+54	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+55	bilo	biti	glagol	Gp-d-es	oblika=deležnik|spol=srednji|vrsta=pomožni|število=ednina	_	_	_	_
+56	prej	prej	prislov	Rsr	stopnja=primernik|vrsta=splošni	_	_	_	SpaceAfter=No
+57	,	,	ločilo	U	_	_	_	_	_
+58	jajce	jajce	samostalnik	Sosei	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+59	ali	ali	veznik	Vp	vrsta=priredni	_	_	_	_
+60	kura	kura	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+61	.	.	ločilo	U	_	_	_	_	_
+
+# newpar id = GF6275628.72783
+# sent_id = GF6275628.72783.2
+# text = Bomo z vajinima novima zadolžitvama zato opeharjeni za vajina javljanja v živo?
+1	Bomo	biti	glagol	Gp-ppm-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=prva|vrsta=pomožni|število=množina	_	_	_	_
+2	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+3	vajinima	vajin	zaimek	Zsdzdod	oseba=druga|sklon=orodnik|spol=ženski|vrsta=svojilni|število=dvojina|število_svojine=dvojina	_	_	_	_
+4	novima	nov	pridevnik	Ppnzdo	sklon=orodnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=dvojina	_	_	_	_
+5	zadolžitvama	zadolžitev	samostalnik	Sozdo	sklon=orodnik|spol=ženski|vrsta=občno_ime|število=dvojina	_	_	_	_
+6	zato	zato	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+7	opeharjeni	opeharjen	pridevnik	Pdnmmi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+8	za	za	predlog	Dt	sklon=tožilnik	_	_	_	_
+9	vajina	vajin	zaimek	Zsdsmtd	oseba=druga|sklon=tožilnik|spol=srednji|vrsta=svojilni|število=množina|število_svojine=dvojina	_	_	_	_
+10	javljanja	javljanje	samostalnik	Sosmt	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	_
+11	v	v	predlog	Dt	sklon=tožilnik	_	_	_	_
+12	živo	živ	pridevnik	Ppnset	sklon=tožilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	SpaceAfter=No
+13	?	?	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF7681234
+# title = Ona : ženski magazin Dela in Slovenskih novic
+# publisher = 2008
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2008
+# term = print / periodic / newspaper
+# newpar id = GF7681234.14853
+# sent_id = GF7681234.14853.4
+# text = Za ta proces je dovolj kratek postanek na soncu in izpostavljanje že manjših površin kože njegovemu delovanju.
+1	Za	za	predlog	Dt	sklon=tožilnik	_	_	_	_
+2	ta	ta	zaimek	Zk-met	sklon=tožilnik|spol=moški|vrsta=kazalni|število=ednina	_	_	_	_
+3	proces	proces	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	_
+4	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+5	dovolj	dovolj	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+6	kratek	kratek	pridevnik	Ppnmein	določnost=ne|sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+7	postanek	postanek	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+8	na	na	predlog	Dm	sklon=mestnik	_	_	_	_
+9	soncu	sonce	samostalnik	Sosem	sklon=mestnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+10	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+11	izpostavljanje	izpostavljanje	samostalnik	Sosei	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+12	že	že	členek	L	_	_	_	_	_
+13	manjših	majhen	pridevnik	Pppzmr	sklon=rodilnik|spol=ženski|stopnja=primernik|vrsta=splošni|število=množina	_	_	_	_
+14	površin	površina	samostalnik	Sozmr	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+15	kože	koža	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+16	njegovemu	njegov	zaimek	Zstsedes	oseba=tretja|sklon=dajalnik|spol=srednji|spol_svojine=srednji|vrsta=svojilni|število=ednina|število_svojine=ednina	_	_	_	_
+17	delovanju	delovanje	samostalnik	Sosed	sklon=dajalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+18	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF2063124
+# title = INTERNET novice.svet24.si (2017-10)
+# publisher = 2017-10
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2017-10
+# term = internet
+# newpar id = GF2063124.389
+# sent_id = GF2063124.389.10
+# text = Na Tamarino željo konjiček sede, skupaj bereta knjigo, iz ust ji je, gre na kolena, se prikloni, na njem lahko stoji in vrti hulahup obroče ...
+1	Na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+2	Tamarino	Tamarin	pridevnik	Psnzet	sklon=tožilnik|spol=ženski|stopnja=nedoločeno|vrsta=svojilni|število=ednina	_	_	_	_
+3	željo	želja	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+4	konjiček	konjiček	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+5	sede	sesti	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+6	,	,	ločilo	U	_	_	_	_	_
+7	skupaj	skupaj	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+8	bereta	brati	glagol	Ggnstd	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=dvojina	_	_	_	_
+9	knjigo	knjiga	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+10	,	,	ločilo	U	_	_	_	_	_
+11	iz	iz	predlog	Dr	sklon=rodilnik	_	_	_	_
+12	ust	usta	samostalnik	Sosmr	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	_
+13	ji	on	zaimek	Zotzed--k	naslonskost=klitična|oseba=tretja|sklon=dajalnik|spol=ženski|vrsta=osebni|število=ednina	_	_	_	_
+14	je	jesti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+15	,	,	ločilo	U	_	_	_	_	_
+16	gre	iti	glagol	Ggvste	oblika=sedanjik|oseba=tretja|vid=dvovidski|vrsta=glavni|število=ednina	_	_	_	_
+17	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+18	kolena	koleno	samostalnik	Sosmt	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+19	,	,	ločilo	U	_	_	_	_	_
+20	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+21	prikloni	prikloniti	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+22	,	,	ločilo	U	_	_	_	_	_
+23	na	na	predlog	Dm	sklon=mestnik	_	_	_	_
+24	njem	on	zaimek	Zotmem	oseba=tretja|sklon=mestnik|spol=moški|vrsta=osebni|število=ednina	_	_	_	_
+25	lahko	lahko	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+26	stoji	stati	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+27	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+28	vrti	vrteti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+29	hulahup	hulahup	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+30	obroče	obroč	samostalnik	Sommt	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+31	.	.	ločilo	U	_	_	_	_	SpaceAfter=No
+32	.	.	ločilo	U	_	_	_	_	SpaceAfter=No
+33	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0655511
+# title = Dnevnik
+# publisher = 2001-02-05
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2001-02-05
+# term = print / periodic / newspaper
+# newpar id = GF0655511.1235
+# sent_id = GF0655511.1235.4
+# text = Kdor pogosto je začinjeno, zvišuje svoj bolečinski prag, so ugotovili japonski znanstveniki.
+1	Kdor	kdor	zaimek	Zz-mei	sklon=imenovalnik|spol=moški|vrsta=oziralni|število=ednina	_	_	_	_
+2	pogosto	pogosto	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+3	je	jesti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+4	začinjeno	začinjen	pridevnik	Pdnzet	sklon=tožilnik|spol=ženski|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	SpaceAfter=No
+5	,	,	ločilo	U	_	_	_	_	_
+6	zvišuje	zviševati	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+7	svoj	svoj	zaimek	Zp-met	sklon=tožilnik|spol=moški|vrsta=povratni|število=ednina	_	_	_	_
+8	bolečinski	bolečinski	pridevnik	Ppnmetd	določnost=da|sklon=tožilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+9	prag	prag	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	SpaceAfter=No
+10	,	,	ločilo	U	_	_	_	_	_
+11	so	biti	glagol	Gp-stm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+12	ugotovili	ugotoviti	glagol	Ggdd-mm	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=množina	_	_	_	_
+13	japonski	japonski	pridevnik	Ppnmmi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+14	znanstveniki	znanstvenik	samostalnik	Sommi	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+15	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF1975966
+# title = INTERNET www.dnevnik.si (2015-02)
+# publisher = 2015-02
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2015-02
+# term = internet
+# newpar id = GF1975966.97
+# sent_id = GF1975966.97.1
+# text = Da, kjer se tako dobro je in se tudi za suha usta kaj žlahtnega tekočega zraven ponudi, tam se ni bati, da ne bi bilo vsega dobrega željnih gostov.
+1	Da	da	členek	L	_	_	_	_	SpaceAfter=No
+2	,	,	ločilo	U	_	_	_	_	_
+3	kjer	kjer	veznik	Vd	vrsta=podredni	_	_	_	_
+4	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+5	tako	tako	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+6	dobro	dobro	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+7	je	jesti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+8	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+9	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+10	tudi	tudi	členek	L	_	_	_	_	_
+11	za	za	predlog	Dt	sklon=tožilnik	_	_	_	_
+12	suha	suh	pridevnik	Ppnsmt	sklon=tožilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+13	usta	usta	samostalnik	Sosmt	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	_
+14	kaj	kaj	zaimek	Zv-set	sklon=tožilnik|spol=srednji|vrsta=vprašalni|število=ednina	_	_	_	_
+15	žlahtnega	žlahten	pridevnik	Ppnser	sklon=rodilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+16	tekočega	tekoč	pridevnik	Pdnser	sklon=rodilnik|spol=srednji|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	_
+17	zraven	zraven	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+18	ponudi	ponuditi	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+19	,	,	ločilo	U	_	_	_	_	_
+20	tam	tam	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+21	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+22	ni	biti	glagol	Gp-ste-d	nikalnost=zanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+23	bati	bati	glagol	Ggnn	oblika=nedoločnik|vid=nedovršni|vrsta=glavni	_	_	_	SpaceAfter=No
+24	,	,	ločilo	U	_	_	_	_	_
+25	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+26	ne	ne	členek	L	_	_	_	_	_
+27	bi	biti	glagol	Gp-g	oblika=pogojnik|vrsta=pomožni	_	_	_	_
+28	bilo	biti	glagol	Gp-d-es	oblika=deležnik|spol=srednji|vrsta=pomožni|število=ednina	_	_	_	_
+29	vsega	ves	zaimek	Zc-ser	sklon=rodilnik|spol=srednji|vrsta=celostni|število=ednina	_	_	_	_
+30	dobrega	dober	pridevnik	Ppnser	sklon=rodilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+31	željnih	željen	pridevnik	Ppnmmr	sklon=rodilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+32	gostov	gost	samostalnik	Sommr	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+33	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0186143
+# title = Mladina
+# publisher = 1995-10-22
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 1995-10-22
+# term = print / periodic / magazine
+# newpar id = GF0186143.808
+# sent_id = GF0186143.808.1
+# text = Poleg naštetih dejavnikov je treba navesti še tiste, ki so v neposredni domeni sodstva in bi lahko pripomogli k večji ekonomičnosti njegovega delovanja.
+1	Poleg	poleg	predlog	Dr	sklon=rodilnik	_	_	_	_
+2	naštetih	naštet	pridevnik	Pdnmmr	sklon=rodilnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+3	dejavnikov	dejavnik	samostalnik	Sommr	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+4	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+5	treba	treba	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+6	navesti	navesti	glagol	Ggdn	oblika=nedoločnik|vid=dovršni|vrsta=glavni	_	_	_	_
+7	še	še	členek	L	_	_	_	_	_
+8	tiste	tisti	zaimek	Zk-mmt	sklon=tožilnik|spol=moški|vrsta=kazalni|število=množina	_	_	_	SpaceAfter=No
+9	,	,	ločilo	U	_	_	_	_	_
+10	ki	ki	veznik	Vd	vrsta=podredni	_	_	_	_
+11	so	biti	glagol	Gp-stm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+12	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+13	neposredni	neposreden	pridevnik	Ppnzem	sklon=mestnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+14	domeni	domena	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+15	sodstva	sodstvo	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+16	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+17	bi	biti	glagol	Gp-g	oblika=pogojnik|vrsta=pomožni	_	_	_	_
+18	lahko	lahko	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+19	pripomogli	pripomoči	glagol	Ggdd-mm	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=množina	_	_	_	_
+20	k	k	predlog	Dd	sklon=dajalnik	_	_	_	_
+21	večji	velik	pridevnik	Pppzed	sklon=dajalnik|spol=ženski|stopnja=primernik|vrsta=splošni|število=ednina	_	_	_	_
+22	ekonomičnosti	ekonomičnost	samostalnik	Sozed	sklon=dajalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+23	njegovega	njegov	zaimek	Zstseres	oseba=tretja|sklon=rodilnik|spol=srednji|spol_svojine=srednji|vrsta=svojilni|število=ednina|število_svojine=ednina	_	_	_	_
+24	delovanja	delovanje	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+25	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0281223
+# title = Dnevnik
+# publisher = 2003-07-05
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2003-07-05
+# term = print / periodic / newspaper
+# newpar id = GF0281223.239
+# sent_id = GF0281223.239.2
+# text = Za ta korak naj bi se odločil zato, ker se njuna mnenja o nekaterih stvareh preveč razhajajo.
+1	Za	za	predlog	Dt	sklon=tožilnik	_	_	_	_
+2	ta	ta	zaimek	Zk-met	sklon=tožilnik|spol=moški|vrsta=kazalni|število=ednina	_	_	_	_
+3	korak	korak	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	_
+4	naj	naj	členek	L	_	_	_	_	_
+5	bi	biti	glagol	Gp-g	oblika=pogojnik|vrsta=pomožni	_	_	_	_
+6	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+7	odločil	odločiti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+8	zato	zato	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	SpaceAfter=No
+9	,	,	ločilo	U	_	_	_	_	_
+10	ker	ker	veznik	Vd	vrsta=podredni	_	_	_	_
+11	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+12	njuna	njun	zaimek	Zstsmid	oseba=tretja|sklon=imenovalnik|spol=srednji|vrsta=svojilni|število=množina|število_svojine=dvojina	_	_	_	_
+13	mnenja	mnenje	samostalnik	Sosmi	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	_
+14	o	o	predlog	Dm	sklon=mestnik	_	_	_	_
+15	nekaterih	nekateri	zaimek	Zn-zmm	sklon=mestnik|spol=ženski|vrsta=nedoločni|število=množina	_	_	_	_
+16	stvareh	stvar	samostalnik	Sozmm	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+17	preveč	preveč	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+18	razhajajo	razhajati	glagol	Ggnstm	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	SpaceAfter=No
+19	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0127586
+# title = INTERNET www.slovenskenovice.si (2017-05)
+# publisher = 2017-05
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2017-05
+# term = internet
+# newpar id = GF0127586.1573
+# sent_id = GF0127586.1573.1
+# text = "Občudovali smo tvoje znanje angleščine, ki si ga osvajal z levo roko, tvoje risarske sposobnosti, ob katerih smo se spraševali, ali niso fotografije.
+1	"	"	ločilo	U	_	_	_	_	SpaceAfter=No
+2	Občudovali	občudovati	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+3	smo	biti	glagol	Gp-spm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vrsta=pomožni|število=množina	_	_	_	_
+4	tvoje	tvoj	zaimek	Zsdsete	oseba=druga|sklon=tožilnik|spol=srednji|vrsta=svojilni|število=ednina|število_svojine=ednina	_	_	_	_
+5	znanje	znanje	samostalnik	Soset	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+6	angleščine	angleščina	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+7	,	,	ločilo	U	_	_	_	_	_
+8	ki	ki	veznik	Vd	vrsta=podredni	_	_	_	_
+9	si	biti	glagol	Gp-sde-n	nikalnost=nezanikani|oblika=sedanjik|oseba=druga|vrsta=pomožni|število=ednina	_	_	_	_
+10	ga	on	zaimek	Zotset--k	naslonskost=klitična|oseba=tretja|sklon=tožilnik|spol=srednji|vrsta=osebni|število=ednina	_	_	_	_
+11	osvajal	osvajati	glagol	Ggnd-em	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+12	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+13	levo	lev	pridevnik	Ppnzeo	sklon=orodnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+14	roko	roka	samostalnik	Sozeo	sklon=orodnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+15	,	,	ločilo	U	_	_	_	_	_
+16	tvoje	tvoj	zaimek	Zsdzmte	oseba=druga|sklon=tožilnik|spol=ženski|vrsta=svojilni|število=množina|število_svojine=ednina	_	_	_	_
+17	risarske	risarski	pridevnik	Ppnzmt	sklon=tožilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+18	sposobnosti	sposobnost	samostalnik	Sozmt	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+19	,	,	ločilo	U	_	_	_	_	_
+20	ob	ob	predlog	Dm	sklon=mestnik	_	_	_	_
+21	katerih	kateri	zaimek	Zv-zmm	sklon=mestnik|spol=ženski|vrsta=vprašalni|število=množina	_	_	_	_
+22	smo	biti	glagol	Gp-spm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vrsta=pomožni|število=množina	_	_	_	_
+23	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+24	spraševali	spraševati	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	SpaceAfter=No
+25	,	,	ločilo	U	_	_	_	_	_
+26	ali	ali	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+27	niso	biti	glagol	Gp-stm-d	nikalnost=zanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+28	fotografije	fotografija	samostalnik	Sozmi	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+29	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF9025837
+# title = Dnevnik
+# publisher = 1999-05-25
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 1999-05-25
+# term = print / periodic / newspaper
+# newpar id = GF9025837.1055
+# sent_id = GF9025837.1055.2
+# text = Pravilna odgovora na naši nagradni vprašanji se glasita: pevec in kitarist zasedbe je James Hetfield, v prometni nesreči pa je umrl basist Cliff Burton.
+1	Pravilna	pravilen	pridevnik	Ppnmdi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=dvojina	_	_	_	_
+2	odgovora	odgovor	samostalnik	Somdi	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=dvojina	_	_	_	_
+3	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+4	naši	naš	zaimek	Zspsdtm	oseba=prva|sklon=tožilnik|spol=srednji|vrsta=svojilni|število=dvojina|število_svojine=množina	_	_	_	_
+5	nagradni	nagraden	pridevnik	Ppnsdt	sklon=tožilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=dvojina	_	_	_	_
+6	vprašanji	vprašanje	samostalnik	Sosdt	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=dvojina	_	_	_	_
+7	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+8	glasita	glasiti	glagol	Ggnstd	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=dvojina	_	_	_	SpaceAfter=No
+9	:	:	ločilo	U	_	_	_	_	_
+10	pevec	pevec	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+11	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+12	kitarist	kitarist	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+13	zasedbe	zasedba	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+14	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+15	James	James	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+16	Hetfield	Hetfield	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	SpaceAfter=No
+17	,	,	ločilo	U	_	_	_	_	_
+18	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+19	prometni	prometen	pridevnik	Ppnzem	sklon=mestnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+20	nesreči	nesreča	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+21	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+22	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+23	umrl	umreti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+24	basist	basist	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+25	Cliff	Cliff	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+26	Burton	Burton	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	SpaceAfter=No
+27	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF1850674
+# title = Gloss
+# publisher = 2001-11
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2001-11
+# term = print / periodic / magazine
+# newpar id = GF1850674.541
+# sent_id = GF1850674.541.8
+# text = Ne cenimo več lepote narave in pomena te lepote predmestja z njegovimi drevesi in travniki in ptiči za naše otroke?
+1	Ne	ne	členek	L	_	_	_	_	_
+2	cenimo	ceniti	glagol	Ggnspm	oblika=sedanjik|oseba=prva|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+3	več	več	členek	L	_	_	_	_	_
+4	lepote	lepota	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+5	narave	narava	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+6	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+7	pomena	pomen	samostalnik	Somer	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+8	te	ta	zaimek	Zk-zer	sklon=rodilnik|spol=ženski|vrsta=kazalni|število=ednina	_	_	_	_
+9	lepote	lepota	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+10	predmestja	predmestje	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+11	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+12	njegovimi	njegov	zaimek	Zstsmoes	oseba=tretja|sklon=orodnik|spol=srednji|spol_svojine=srednji|vrsta=svojilni|število=množina|število_svojine=ednina	_	_	_	_
+13	drevesi	drevo	samostalnik	Sosmo	sklon=orodnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	_
+14	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+15	travniki	travnik	samostalnik	Sommo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+16	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+17	ptiči	ptič	samostalnik	Sommo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+18	za	za	predlog	Dt	sklon=tožilnik	_	_	_	_
+19	naše	naš	zaimek	Zspmmtm	oseba=prva|sklon=tožilnik|spol=moški|vrsta=svojilni|število=množina|število_svojine=množina	_	_	_	_
+20	otroke	otrok	samostalnik	Sommt	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+21	?	?	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF7554155
+# title = Jana
+# publisher = 2009
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2009
+# term = print / periodic / magazine
+# newpar id = GF7554155.15690
+# sent_id = GF7554155.15690.4
+# text = Zdaj smo pred dilemo, kako razporediti otroke v njihovih dveh sobah.
+1	Zdaj	zdaj	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+2	smo	biti	glagol	Gp-spm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vrsta=pomožni|število=množina	_	_	_	_
+3	pred	pred	predlog	Do	sklon=orodnik	_	_	_	_
+4	dilemo	dilema	samostalnik	Sozeo	sklon=orodnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+5	,	,	ločilo	U	_	_	_	_	_
+6	kako	kako	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+7	razporediti	razporediti	glagol	Ggdn	oblika=nedoločnik|vid=dovršni|vrsta=glavni	_	_	_	_
+8	otroke	otrok	samostalnik	Sommt	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+9	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+10	njihovih	njihov	zaimek	Zstzdmm	oseba=tretja|sklon=mestnik|spol=ženski|vrsta=svojilni|število=dvojina|število_svojine=množina	_	_	_	_
+11	dveh	dva	števnik	Kbgzdm	sklon=mestnik|spol=ženski|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+12	sobah	soba	samostalnik	Sozdm	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+13	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF1495898
+# title = Delo
+# publisher = 2003-11-18
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2003-11-18
+# term = print / periodic / newspaper
+# newpar id = GF1495898.1356
+# sent_id = GF1495898.1356.5
+# text = Ko se naslednje leto po združitvi Nemčije in gospodarskih spremembah zbudi iz kome, zdravnik naroči njenima otrokoma, da se mati ne sme vznemirjati.
+1	Ko	ko	veznik	Vd	vrsta=podredni	_	_	_	_
+2	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+3	naslednje	naslednji	pridevnik	Ppnset	sklon=tožilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+4	leto	leto	samostalnik	Soset	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+5	po	po	predlog	Dm	sklon=mestnik	_	_	_	_
+6	združitvi	združitev	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+7	Nemčije	Nemčija	samostalnik	Slzer	sklon=rodilnik|spol=ženski|vrsta=lastno_ime|število=ednina	_	_	_	_
+8	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+9	gospodarskih	gospodarski	pridevnik	Ppnzmm	sklon=mestnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+10	spremembah	sprememba	samostalnik	Sozmm	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+11	zbudi	zbuditi	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+12	iz	iz	predlog	Dr	sklon=rodilnik	_	_	_	_
+13	kome	koma	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+14	,	,	ločilo	U	_	_	_	_	_
+15	zdravnik	zdravnik	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+16	naroči	naročiti	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+17	njenima	njen	zaimek	Zstmddez	oseba=tretja|sklon=dajalnik|spol=moški|spol_svojine=ženski|vrsta=svojilni|število=dvojina|število_svojine=ednina	_	_	_	_
+18	otrokoma	otrok	samostalnik	Somdd	sklon=dajalnik|spol=moški|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+19	,	,	ločilo	U	_	_	_	_	_
+20	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+21	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+22	mati	mati	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+23	ne	ne	členek	L	_	_	_	_	_
+24	sme	smeti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+25	vznemirjati	vznemirjati	glagol	Ggnn	oblika=nedoločnik|vid=nedovršni|vrsta=glavni	_	_	_	SpaceAfter=No
+26	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF5280094
+# title = Dnevnik
+# publisher = 2004-07-14
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2004-07-14
+# term = print / periodic / newspaper
+# newpar id = GF5280094.624
+# sent_id = GF5280094.624.4
+# text = Sicer pa sta tudi letos v seriji znamenitih osebnosti izšli dve znamki, posvečeni stotima obletnicama rojstva Edvarda Kocbeka in Srečka Kosovela, izid znamke v počastitev slednjega je morala primorska javnost dobesedno izsiliti.
+1	Sicer	sicer	veznik	Vp	vrsta=priredni	_	_	_	_
+2	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+3	sta	biti	glagol	Gp-std-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=dvojina	_	_	_	_
+4	tudi	tudi	členek	L	_	_	_	_	_
+5	letos	letos	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+6	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+7	seriji	serija	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+8	znamenitih	znamenit	pridevnik	Ppnzmr	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+9	osebnosti	osebnost	samostalnik	Sozmr	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+10	izšli	iziti	glagol	Ggdd-dz	oblika=deležnik|spol=ženski|vid=dovršni|vrsta=glavni|število=dvojina	_	_	_	_
+11	dve	dva	števnik	Kbgzdi	sklon=imenovalnik|spol=ženski|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+12	znamki	znamka	samostalnik	Sozdi	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+13	,	,	ločilo	U	_	_	_	_	_
+14	posvečeni	posvečen	pridevnik	Pdnzdi	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=deležniški|število=dvojina	_	_	_	_
+15	stotima	stoti	števnik	Kbvzdd	sklon=dajalnik|spol=ženski|vrsta=vrstilni|zapis=besedni|število=dvojina	_	_	_	_
+16	obletnicama	obletnica	samostalnik	Sozdd	sklon=dajalnik|spol=ženski|vrsta=občno_ime|število=dvojina	_	_	_	_
+17	rojstva	rojstvo	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+18	Edvarda	Edvard	samostalnik	Slmer	sklon=rodilnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+19	Kocbeka	Kocbek	samostalnik	Slmer	sklon=rodilnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+20	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+21	Srečka	Srečko	samostalnik	Slmer	sklon=rodilnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+22	Kosovela	Kosovel	samostalnik	Slmer	sklon=rodilnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	SpaceAfter=No
+23	,	,	ločilo	U	_	_	_	_	_
+24	izid	izid	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	_
+25	znamke	znamka	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+26	v	v	predlog	Dt	sklon=tožilnik	_	_	_	_
+27	počastitev	počastitev	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+28	slednjega	slednji	pridevnik	Ppnmer	sklon=rodilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+29	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+30	morala	morati	glagol	Ggnd-ez	oblika=deležnik|spol=ženski|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+31	primorska	primorski	pridevnik	Ppnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+32	javnost	javnost	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+33	dobesedno	dobesedno	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+34	izsiliti	izsiliti	glagol	Ggdn	oblika=nedoločnik|vid=dovršni|vrsta=glavni	_	_	_	SpaceAfter=No
+35	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0778439
+# title = INTERNET svet24.si (2016-10)
+# publisher = 2016-10
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2016-10
+# term = internet
+# newpar id = GF0778439.532
+# sent_id = GF0778439.532.2
+# text = Njen mož Goran je policiji povedal, da je okoli 3. ure zjutraj na avtobusno postalo pospremil enega od njunih dveh sinov, ko pa se je vrnil domov, ga je, kot trdi, neznanec udaril po zatilju, po udarcu pa se ničesar več ne spominja.
+1	Njen	njen	zaimek	Zstmeiez	oseba=tretja|sklon=imenovalnik|spol=moški|spol_svojine=ženski|vrsta=svojilni|število=ednina|število_svojine=ednina	_	_	_	_
+2	mož	mož	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+3	Goran	Goran	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+4	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+5	policiji	policija	samostalnik	Sozed	sklon=dajalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+6	povedal	povedati	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+7	,	,	ločilo	U	_	_	_	_	_
+8	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+9	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+10	okoli	okoli	predlog	Dr	sklon=rodilnik	_	_	_	_
+11	3.	3.	števnik	Kav	vrsta=vrstilni|zapis=arabski	_	_	_	_
+12	ure	ura	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+13	zjutraj	zjutraj	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+14	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+15	avtobusno	avtobusen	pridevnik	Ppnset	sklon=tožilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+16	postalo	postati	glagol	Ggdd-es	oblika=deležnik|spol=srednji|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+17	pospremil	pospremiti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+18	enega	en	števnik	Kbzmet	sklon=tožilnik|spol=moški|vrsta=zaimkovni|zapis=besedni|število=ednina	_	_	_	_
+19	od	od	predlog	Dr	sklon=rodilnik	_	_	_	_
+20	njunih	njun	zaimek	Zstmdrd	oseba=tretja|sklon=rodilnik|spol=moški|vrsta=svojilni|število=dvojina|število_svojine=dvojina	_	_	_	_
+21	dveh	dva	števnik	Kbgmdr	sklon=rodilnik|spol=moški|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+22	sinov	sin	samostalnik	Somdr	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+23	,	,	ločilo	U	_	_	_	_	_
+24	ko	ko	veznik	Vd	vrsta=podredni	_	_	_	_
+25	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+26	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+27	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+28	vrnil	vrniti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+29	domov	domov	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	SpaceAfter=No
+30	,	,	ločilo	U	_	_	_	_	_
+31	ga	on	zaimek	Zotmet--k	naslonskost=klitična|oseba=tretja|sklon=tožilnik|spol=moški|vrsta=osebni|število=ednina	_	_	_	_
+32	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	SpaceAfter=No
+33	,	,	ločilo	U	_	_	_	_	_
+34	kot	kot	veznik	Vd	vrsta=podredni	_	_	_	_
+35	trdi	trditi	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+36	,	,	ločilo	U	_	_	_	_	_
+37	neznanec	neznanec	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+38	udaril	udariti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+39	po	po	predlog	Dm	sklon=mestnik	_	_	_	_
+40	zatilju	zatilje	samostalnik	Sosem	sklon=mestnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+41	,	,	ločilo	U	_	_	_	_	_
+42	po	po	predlog	Dm	sklon=mestnik	_	_	_	_
+43	udarcu	udarec	samostalnik	Somem	sklon=mestnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+44	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+45	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+46	ničesar	nič	zaimek	Zl-ser	sklon=rodilnik|spol=srednji|vrsta=nikalni|število=ednina	_	_	_	_
+47	več	več	členek	L	_	_	_	_	_
+48	ne	ne	členek	L	_	_	_	_	_
+49	spominja	spominjati	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+50	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF6432020
+# title = Mladina
+# publisher = 2002-07
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2002-07
+# term = print / periodic / magazine
+# newpar id = GF6432020.554
+# sent_id = GF6432020.554.3
+# text = Kakšna zmota (namreč moja): od marca, ko se je to začelo, do danes smo “napredovali” le toliko, da sem bil prisiljen prizadetim napisati pobudo na ustavno sodišče, naj ono razveljavi smešni in očitno protiustavni ter nezakoniti “kriterij” plačila lastne udeležbe (v vrednosti 10 % “neprofitnega” stanovanja) kot pogoja, da lahko za tako stanovanje uspešno konkuriraš in ga dobiš.
+1	Kakšna	kakšen	zaimek	Zv-zei	sklon=imenovalnik|spol=ženski|vrsta=vprašalni|število=ednina	_	_	_	_
+2	zmota	zmota	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+3	(	(	ločilo	U	_	_	_	_	SpaceAfter=No
+4	namreč	namreč	veznik	Vp	vrsta=priredni	_	_	_	_
+5	moja	moj	zaimek	Zspzeie	oseba=prva|sklon=imenovalnik|spol=ženski|vrsta=svojilni|število=ednina|število_svojine=ednina	_	_	_	SpaceAfter=No
+6	)	)	ločilo	U	_	_	_	_	SpaceAfter=No
+7	:	:	ločilo	U	_	_	_	_	_
+8	od	od	predlog	Dr	sklon=rodilnik	_	_	_	_
+9	marca	marec	samostalnik	Somer	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+10	,	,	ločilo	U	_	_	_	_	_
+11	ko	ko	veznik	Vd	vrsta=podredni	_	_	_	_
+12	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+13	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+14	to	ta	zaimek	Zk-sei	sklon=imenovalnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	_
+15	začelo	začeti	glagol	Ggdd-es	oblika=deležnik|spol=srednji|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+16	,	,	ločilo	U	_	_	_	_	_
+17	do	do	predlog	Dr	sklon=rodilnik	_	_	_	_
+18	danes	danes	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+19	smo	biti	glagol	Gp-spm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vrsta=pomožni|število=množina	_	_	_	_
+20	“	“	ločilo	U	_	_	_	_	SpaceAfter=No
+21	napredovali	napredovati	glagol	Ggvd-mm	oblika=deležnik|spol=moški|vid=dvovidski|vrsta=glavni|število=množina	_	_	_	SpaceAfter=No
+22	”	”	ločilo	U	_	_	_	_	_
+23	le	le	členek	L	_	_	_	_	_
+24	toliko	toliko	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	SpaceAfter=No
+25	,	,	ločilo	U	_	_	_	_	_
+26	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+27	sem	biti	glagol	Gp-spe-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vrsta=pomožni|število=ednina	_	_	_	_
+28	bil	biti	glagol	Gp-d-em	oblika=deležnik|spol=moški|vrsta=pomožni|število=ednina	_	_	_	_
+29	prisiljen	prisiljen	pridevnik	Pdnmein	določnost=ne|sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	_
+30	prizadetim	prizadet	pridevnik	Pdnmmd	sklon=dajalnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+31	napisati	napisati	glagol	Ggdn	oblika=nedoločnik|vid=dovršni|vrsta=glavni	_	_	_	_
+32	pobudo	pobuda	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+33	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+34	ustavno	ustaven	pridevnik	Ppnset	sklon=tožilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+35	sodišče	sodišče	samostalnik	Soset	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+36	,	,	ločilo	U	_	_	_	_	_
+37	naj	naj	veznik	Vd	vrsta=podredni	_	_	_	_
+38	ono	on	zaimek	Zotsei	oseba=tretja|sklon=imenovalnik|spol=srednji|vrsta=osebni|število=ednina	_	_	_	_
+39	razveljavi	razveljaviti	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+40	smešni	smešen	pridevnik	Ppnmetd	določnost=da|sklon=tožilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+41	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+42	očitno	očitno	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+43	protiustavni	protiustaven	pridevnik	Ppnmetd	določnost=da|sklon=tožilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+44	ter	ter	veznik	Vp	vrsta=priredni	_	_	_	_
+45	nezakoniti	nezakonit	pridevnik	Ppnmetd	določnost=da|sklon=tožilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+46	“	“	ločilo	U	_	_	_	_	SpaceAfter=No
+47	kriterij	kriterij	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	SpaceAfter=No
+48	”	”	ločilo	U	_	_	_	_	_
+49	plačila	plačilo	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+50	lastne	lasten	pridevnik	Ppnzer	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+51	udeležbe	udeležba	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+52	(	(	ločilo	U	_	_	_	_	SpaceAfter=No
+53	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+54	vrednosti	vrednost	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+55	10	10	števnik	Kag	vrsta=glavni|zapis=arabski	_	_	_	_
+56	%	%	ločilo	U	_	_	_	_	_
+57	“	“	ločilo	U	_	_	_	_	SpaceAfter=No
+58	neprofitnega	neprofiten	pridevnik	Ppnser	sklon=rodilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	SpaceAfter=No
+59	”	”	ločilo	U	_	_	_	_	_
+60	stanovanja	stanovanje	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+61	)	)	ločilo	U	_	_	_	_	_
+62	kot	kot	veznik	Vd	vrsta=podredni	_	_	_	_
+63	pogoja	pogoj	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	SpaceAfter=No
+64	,	,	ločilo	U	_	_	_	_	_
+65	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+66	lahko	lahko	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+67	za	za	predlog	Dt	sklon=tožilnik	_	_	_	_
+68	tako	tak	zaimek	Zk-set	sklon=tožilnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	_
+69	stanovanje	stanovanje	samostalnik	Soset	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+70	uspešno	uspešno	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+71	konkuriraš	konkurirati	glagol	Ggvsde	oblika=sedanjik|oseba=druga|vid=dvovidski|vrsta=glavni|število=ednina	_	_	_	_
+72	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+73	ga	on	zaimek	Zotset--k	naslonskost=klitična|oseba=tretja|sklon=tožilnik|spol=srednji|vrsta=osebni|število=ednina	_	_	_	_
+74	dobiš	dobiti	glagol	Ggdsde	oblika=sedanjik|oseba=druga|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+75	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF1490150
+# title = neznani naslov
+# publisher = 2006
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani avtor
+# edition = 2.0
+# dedup_status = nodup
+# date = 2006
+# term = print / book / professional
+# newpar id = GF1490150.12724
+# sent_id = GF1490150.12724.2
+# text = Tudi kadar oskrbovanec je v postelji, mu namestimo posteljno mizico tako, da se lahko sklanja nad krožnik.
+1	Tudi	tudi	členek	L	_	_	_	_	_
+2	kadar	kadar	veznik	Vd	vrsta=podredni	_	_	_	_
+3	oskrbovanec	oskrbovanec	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+4	je	jesti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+5	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+6	postelji	postelja	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+7	,	,	ločilo	U	_	_	_	_	_
+8	mu	on	zaimek	Zotmed--k	naslonskost=klitična|oseba=tretja|sklon=dajalnik|spol=moški|vrsta=osebni|število=ednina	_	_	_	_
+9	namestimo	namestiti	glagol	Ggdspm	oblika=sedanjik|oseba=prva|vid=dovršni|vrsta=glavni|število=množina	_	_	_	_
+10	posteljno	posteljen	pridevnik	Ppnzet	sklon=tožilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+11	mizico	mizica	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+12	tako	tako	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	SpaceAfter=No
+13	,	,	ločilo	U	_	_	_	_	_
+14	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+15	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+16	lahko	lahko	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+17	sklanja	sklanjati	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+18	nad	nad	predlog	Dt	sklon=tožilnik	_	_	_	_
+19	krožnik	krožnik	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	SpaceAfter=No
+20	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF3136159
+# title = Nedeljski dnevnik
+# publisher = 2003-04-13
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2003-04-13
+# term = print / periodic / newspaper
+# newpar id = GF3136159.694
+# sent_id = GF3136159.694.3
+# text = Zato se posvetiva vašima vprašanjema.
+1	Zato	zato	veznik	Vp	vrsta=priredni	_	_	_	_
+2	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+3	posvetiva	posvetiti	glagol	Ggdspd	oblika=sedanjik|oseba=prva|vid=dovršni|vrsta=glavni|število=dvojina	_	_	_	_
+4	vašima	vaš	zaimek	Zsdsddm	oseba=druga|sklon=dajalnik|spol=srednji|vrsta=svojilni|število=dvojina|število_svojine=množina	_	_	_	_
+5	vprašanjema	vprašanje	samostalnik	Sosdd	sklon=dajalnik|spol=srednji|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+6	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0389704
+# title = Dnevnik
+# publisher = 1997-02-11
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 1997-02-11
+# term = print / periodic / newspaper
+# newpar id = GF0389704.1270
+# sent_id = GF0389704.1270.8
+# text = Jedrskih silosov, ki skrivajo rakete, se ne da kar preprosto zapreti, uničevanje takega orožja (v kaj takega Rusija ne bo privolila) pa je še dražje kot njegovo vzdrževanje.
+1	Jedrskih	jedrski	pridevnik	Ppnmmr	sklon=rodilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+2	silosov	silos	samostalnik	Sommr	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+3	,	,	ločilo	U	_	_	_	_	_
+4	ki	ki	veznik	Vd	vrsta=podredni	_	_	_	_
+5	skrivajo	skrivati	glagol	Ggnstm	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+6	rakete	raketa	samostalnik	Sozmt	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+7	,	,	ločilo	U	_	_	_	_	_
+8	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+9	ne	ne	členek	L	_	_	_	_	_
+10	da	dati	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+11	kar	kar	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+12	preprosto	preprosto	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+13	zapreti	zapretiti	glagol	Ggdste	oblika=sedanjik|oseba=tretja|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+14	,	,	ločilo	U	_	_	_	_	_
+15	uničevanje	uničevanje	samostalnik	Sosei	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+16	takega	tak	zaimek	Zk-ser	sklon=rodilnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	_
+17	orožja	orožje	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+18	(	(	ločilo	U	_	_	_	_	SpaceAfter=No
+19	v	v	predlog	Dt	sklon=tožilnik	_	_	_	_
+20	kaj	kaj	zaimek	Zv-set	sklon=tožilnik|spol=srednji|vrsta=vprašalni|število=ednina	_	_	_	_
+21	takega	tak	zaimek	Zk-ser	sklon=rodilnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	_
+22	Rusija	Rusija	samostalnik	Slzei	sklon=imenovalnik|spol=ženski|vrsta=lastno_ime|število=ednina	_	_	_	_
+23	ne	ne	členek	L	_	_	_	_	_
+24	bo	biti	glagol	Gp-pte-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+25	privolila	privoliti	glagol	Ggdd-ez	oblika=deležnik|spol=ženski|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+26	)	)	ločilo	U	_	_	_	_	_
+27	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+28	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+29	še	še	členek	L	_	_	_	_	_
+30	dražje	drago	prislov	Rsr	stopnja=primernik|vrsta=splošni	_	_	_	_
+31	kot	kot	veznik	Vd	vrsta=podredni	_	_	_	_
+32	njegovo	njegov	zaimek	Zstseies	oseba=tretja|sklon=imenovalnik|spol=srednji|spol_svojine=srednji|vrsta=svojilni|število=ednina|število_svojine=ednina	_	_	_	_
+33	vzdrževanje	vzdrževanje	samostalnik	Sosei	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+34	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF2435229
+# title = Monitor
+# publisher = 2001-04
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2001-04
+# term = print / periodic / magazine
+# newpar id = GF2435229.3027
+# sent_id = GF2435229.3027.2
+# text = Normalo ravninskega mnogokotnika lahko izračunamo z vektorskim zmnožkom dveh njegovih vektorjev.
+1	Normalo	normala	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+2	ravninskega	ravninski	pridevnik	Ppnmer	sklon=rodilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+3	mnogokotnika	mnogokotnik	samostalnik	Somer	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+4	lahko	lahko	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+5	izračunamo	izračunati	glagol	Ggdspm	oblika=sedanjik|oseba=prva|vid=dovršni|vrsta=glavni|število=množina	_	_	_	_
+6	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+7	vektorskim	vektorski	pridevnik	Ppnmeo	sklon=orodnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+8	zmnožkom	zmnožek	samostalnik	Someo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+9	dveh	dva	števnik	Kbgmdr	sklon=rodilnik|spol=moški|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+10	njegovih	njegov	zaimek	Zstmdrem	oseba=tretja|sklon=rodilnik|spol=moški|spol_svojine=moški|vrsta=svojilni|število=dvojina|število_svojine=ednina	_	_	_	_
+11	vektorjev	vektor	samostalnik	Somdr	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+12	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF2853914
+# title = Branje z dlani
+# publisher = 1994
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = [besedilo] Roz Levine
+# edition = 2.0
+# dedup_status = nodup
+# date = 1994
+# term = print / book / professional
+# newpar id = GF2853914.1002
+# sent_id = GF2853914.1002.1
+# text = Venerina griča na obeh Filipovih dlaneh sta zelo široka in polna.
+1	Venerina	Venerin	pridevnik	Psnmdi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=svojilni|število=dvojina	_	_	_	_
+2	griča	grič	samostalnik	Somdi	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=dvojina	_	_	_	_
+3	na	na	predlog	Dm	sklon=mestnik	_	_	_	_
+4	obeh	oba	zaimek	Zc-zdm	sklon=mestnik|spol=ženski|vrsta=celostni|število=dvojina	_	_	_	_
+5	Filipovih	Filipov	pridevnik	Psnzdm	sklon=mestnik|spol=ženski|stopnja=nedoločeno|vrsta=svojilni|število=dvojina	_	_	_	_
+6	dlaneh	dlan	samostalnik	Sozdm	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=dvojina	_	_	_	_
+7	sta	biti	glagol	Gp-std-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=dvojina	_	_	_	_
+8	zelo	zelo	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+9	široka	širok	pridevnik	Ppnmdi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=dvojina	_	_	_	_
+10	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+11	polna	poln	pridevnik	Ppnmdi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=dvojina	_	_	_	SpaceAfter=No
+12	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0190744
+# title = INTERNET www.delo.si (2015-04)
+# publisher = 2015-04
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2015-04
+# term = internet
+# newpar id = GF0190744.600
+# sent_id = GF0190744.600.7
+# text = Kar debelo sem pogledal, ko sem zagledal 6. mesto, saj sem imel dober občutek, za noben doskok me niso mogli resneje kaznovati, nikdar ne bi rekel, da je bila med mojima nastopoma takšna razlika, kot kažeta oceni.
+1	Kar	kar	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+2	debelo	debelo	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+3	sem	biti	glagol	Gp-spe-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vrsta=pomožni|število=ednina	_	_	_	_
+4	pogledal	pogledati	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+5	,	,	ločilo	U	_	_	_	_	_
+6	ko	ko	veznik	Vd	vrsta=podredni	_	_	_	_
+7	sem	biti	glagol	Gp-spe-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vrsta=pomožni|število=ednina	_	_	_	_
+8	zagledal	zagledati	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+9	6.	6.	števnik	Kav	vrsta=vrstilni|zapis=arabski	_	_	_	_
+10	mesto	mesto	samostalnik	Soset	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+11	,	,	ločilo	U	_	_	_	_	_
+12	saj	saj	veznik	Vp	vrsta=priredni	_	_	_	_
+13	sem	biti	glagol	Gp-spe-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vrsta=pomožni|število=ednina	_	_	_	_
+14	imel	imeti	glagol	Ggnd-em	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+15	dober	dober	pridevnik	Ppnmetn	določnost=ne|sklon=tožilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+16	občutek	občutek	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	SpaceAfter=No
+17	,	,	ločilo	U	_	_	_	_	_
+18	za	za	predlog	Dt	sklon=tožilnik	_	_	_	_
+19	noben	noben	zaimek	Zl-met	sklon=tožilnik|spol=moški|vrsta=nikalni|število=ednina	_	_	_	_
+20	doskok	doskok	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	_
+21	me	jaz	zaimek	Zop-et--k	naslonskost=klitična|oseba=prva|sklon=tožilnik|vrsta=osebni|število=ednina	_	_	_	_
+22	niso	biti	glagol	Gp-stm-d	nikalnost=zanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+23	mogli	moči	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+24	resneje	resno	prislov	Rsr	stopnja=primernik|vrsta=splošni	_	_	_	_
+25	kaznovati	kaznovati	glagol	Ggvn	oblika=nedoločnik|vid=dvovidski|vrsta=glavni	_	_	_	SpaceAfter=No
+26	,	,	ločilo	U	_	_	_	_	_
+27	nikdar	nikdar	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+28	ne	ne	členek	L	_	_	_	_	_
+29	bi	biti	glagol	Gp-g	oblika=pogojnik|vrsta=pomožni	_	_	_	_
+30	rekel	reči	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+31	,	,	ločilo	U	_	_	_	_	_
+32	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+33	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+34	bila	biti	glagol	Gp-d-ez	oblika=deležnik|spol=ženski|vrsta=pomožni|število=ednina	_	_	_	_
+35	med	med	predlog	Do	sklon=orodnik	_	_	_	_
+36	mojima	moj	zaimek	Zspmdoe	oseba=prva|sklon=orodnik|spol=moški|vrsta=svojilni|število=dvojina|število_svojine=ednina	_	_	_	_
+37	nastopoma	nastop	samostalnik	Somdo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=dvojina	_	_	_	_
+38	takšna	takšen	zaimek	Zk-zei	sklon=imenovalnik|spol=ženski|vrsta=kazalni|število=ednina	_	_	_	_
+39	razlika	razlika	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+40	,	,	ločilo	U	_	_	_	_	_
+41	kot	kot	veznik	Vd	vrsta=podredni	_	_	_	_
+42	kažeta	kazati	glagol	Ggnstd	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=dvojina	_	_	_	_
+43	oceni	ocena	samostalnik	Sozdi	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+44	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0256898
+# title = Gorenjski glas
+# publisher = 2007
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2007
+# term = print / periodic / newspaper
+# newpar id = GF0256898.17599
+# sent_id = GF0256898.17599.18
+# text = Tudi pogled v hladilnik vama bo razkril, kdo potrebuje vajina darila.
+1	Tudi	tudi	členek	L	_	_	_	_	_
+2	pogled	pogled	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+3	v	v	predlog	Dt	sklon=tožilnik	_	_	_	_
+4	hladilnik	hladilnik	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	_
+5	vama	ti	zaimek	Zod-dd	oseba=druga|sklon=dajalnik|vrsta=osebni|število=dvojina	_	_	_	_
+6	bo	biti	glagol	Gp-pte-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+7	razkril	razkriti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	SpaceAfter=No
+8	,	,	ločilo	U	_	_	_	_	_
+9	kdo	kdo	zaimek	Zv-mei	sklon=imenovalnik|spol=moški|vrsta=vprašalni|število=ednina	_	_	_	_
+10	potrebuje	potrebovati	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+11	vajina	vajin	zaimek	Zsdsmtd	oseba=druga|sklon=tožilnik|spol=srednji|vrsta=svojilni|število=množina|število_svojine=dvojina	_	_	_	_
+12	darila	darilo	samostalnik	Sosmt	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+13	.	.	ločilo	U	_	_	_	_	_
+
+# newpar id = GF0256898.4738
+# sent_id = GF0256898.4738.10
+# text = Strašili so me namreč, da je predsednik sila redkobeseden mož in da naj vnaprej pripravim vsaj sto vprašanj, če hočem do konca speljati najinemu pogovoru namenjeno prvo uro.
+1	Strašili	strašiti	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+2	so	biti	glagol	Gp-stm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+3	me	jaz	zaimek	Zop-et--k	naslonskost=klitična|oseba=prva|sklon=tožilnik|vrsta=osebni|število=ednina	_	_	_	_
+4	namreč	namreč	veznik	Vp	vrsta=priredni	_	_	_	SpaceAfter=No
+5	,	,	ločilo	U	_	_	_	_	_
+6	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+7	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+8	predsednik	predsednik	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+9	sila	sila	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+10	redkobeseden	redkobeseden	pridevnik	Ppnmein	določnost=ne|sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+11	mož	mož	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+12	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+13	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+14	naj	naj	členek	L	_	_	_	_	_
+15	vnaprej	vnaprej	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+16	pripravim	pripraviti	glagol	Ggdspe	oblika=sedanjik|oseba=prva|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+17	vsaj	vsaj	členek	L	_	_	_	_	_
+18	sto	sto	števnik	Kbg-mt	sklon=tožilnik|vrsta=glavni|zapis=besedni|število=množina	_	_	_	_
+19	vprašanj	vprašanje	samostalnik	Sosmr	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+20	,	,	ločilo	U	_	_	_	_	_
+21	če	če	veznik	Vd	vrsta=podredni	_	_	_	_
+22	hočem	hoteti	glagol	Ggnspe-n	nikalnost=nezanikani|oblika=sedanjik|oseba=prva|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+23	do	do	predlog	Dr	sklon=rodilnik	_	_	_	_
+24	konca	konec	samostalnik	Somer	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+25	speljati	speljati	glagol	Ggdn	oblika=nedoločnik|vid=dovršni|vrsta=glavni	_	_	_	_
+26	najinemu	najin	zaimek	Zspmedd	oseba=prva|sklon=dajalnik|spol=moški|vrsta=svojilni|število=ednina|število_svojine=dvojina	_	_	_	_
+27	pogovoru	pogovor	samostalnik	Somed	sklon=dajalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+28	namenjeno	namenjen	pridevnik	Pdnzet	sklon=tožilnik|spol=ženski|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	_
+29	prvo	prvi	števnik	Kbvzet	sklon=tožilnik|spol=ženski|vrsta=vrstilni|zapis=besedni|število=ednina	_	_	_	_
+30	uro	ura	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+31	.	.	ločilo	U	_	_	_	_	_
+
+# newpar id = GF0256898.840
+# sent_id = GF0256898.840.6
+# text = Obe vaši pismi med vrsticami razkrivata vaše mišljenje: če bi se kmetje v Goričah in okolici pobijali v razpadajočih hlevih, brodili po blatnih dvoriščih, dan za dnem popravljali stare stroje ter se vozili z razmajanimi avtomobili, potem bi bil tudi smrad gnojevke manj moteč.
+1	Obe	oba	zaimek	Zc-sdi	sklon=imenovalnik|spol=srednji|vrsta=celostni|število=dvojina	_	_	_	_
+2	vaši	vaš	zaimek	Zsdsdim	oseba=druga|sklon=imenovalnik|spol=srednji|vrsta=svojilni|število=dvojina|število_svojine=množina	_	_	_	_
+3	pismi	pismo	samostalnik	Sosdi	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=dvojina	_	_	_	_
+4	med	med	predlog	Do	sklon=orodnik	_	_	_	_
+5	vrsticami	vrstica	samostalnik	Sozmo	sklon=orodnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+6	razkrivata	razkrivati	glagol	Ggnstd	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=dvojina	_	_	_	_
+7	vaše	vaš	zaimek	Zsdsetm	oseba=druga|sklon=tožilnik|spol=srednji|vrsta=svojilni|število=ednina|število_svojine=množina	_	_	_	_
+8	mišljenje	mišljenje	samostalnik	Soset	sklon=tožilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+9	:	:	ločilo	U	_	_	_	_	_
+10	če	če	veznik	Vd	vrsta=podredni	_	_	_	_
+11	bi	biti	glagol	Gp-g	oblika=pogojnik|vrsta=pomožni	_	_	_	_
+12	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+13	kmetje	kmet	samostalnik	Sommi	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+14	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+15	Goričah	Goriče	samostalnik	Slzmm	sklon=mestnik|spol=ženski|vrsta=lastno_ime|število=množina	_	_	_	_
+16	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+17	okolici	okolica	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+18	pobijali	pobijati	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+19	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+20	razpadajočih	razpadajoč	pridevnik	Pdnmmm	sklon=mestnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+21	hlevih	hlev	samostalnik	Sommm	sklon=mestnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+22	,	,	ločilo	U	_	_	_	_	_
+23	brodili	broditi	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+24	po	po	predlog	Dm	sklon=mestnik	_	_	_	_
+25	blatnih	blaten	pridevnik	Ppnsmm	sklon=mestnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+26	dvoriščih	dvorišče	samostalnik	Sosmm	sklon=mestnik|spol=srednji|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+27	,	,	ločilo	U	_	_	_	_	_
+28	dan	dan	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	_
+29	za	za	predlog	Do	sklon=orodnik	_	_	_	_
+30	dnem	dan	samostalnik	Someo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+31	popravljali	popravljati	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+32	stare	star	pridevnik	Ppnmmt	sklon=tožilnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+33	stroje	stroj	samostalnik	Sommt	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+34	ter	ter	veznik	Vp	vrsta=priredni	_	_	_	_
+35	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+36	vozili	voziti	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+37	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+38	razmajanimi	razmajan	pridevnik	Pdnmmo	sklon=orodnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+39	avtomobili	avtomobil	samostalnik	Sommo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+40	,	,	ločilo	U	_	_	_	_	_
+41	potem	potem	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+42	bi	biti	glagol	Gp-g	oblika=pogojnik|vrsta=pomožni	_	_	_	_
+43	bil	biti	glagol	Gp-d-em	oblika=deležnik|spol=moški|vrsta=pomožni|število=ednina	_	_	_	_
+44	tudi	tudi	členek	L	_	_	_	_	_
+45	smrad	smrad	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+46	gnojevke	gnojevka	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+47	manj	manj	prislov	Rsr	stopnja=primernik|vrsta=splošni	_	_	_	_
+48	moteč	moteč	pridevnik	Pdnmein	določnost=ne|sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	SpaceAfter=No
+49	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0996555
+# title = Večer
+# publisher = 2000-02-17
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2000-02-17
+# term = print / periodic / newspaper
+# newpar id = GF0996555.2028
+# sent_id = GF0996555.2028.2
+# text = Po besedah ministra Marjana Jereba bo načrt zdravstvenega varstva, za katerim je druga obravnava v državnem zboru, končno omogočil koherentno politiko zdravstva in njegovega razvoja.
+1	Po	po	predlog	Dm	sklon=mestnik	_	_	_	_
+2	besedah	beseda	samostalnik	Sozmm	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+3	ministra	minister	samostalnik	Somer	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+4	Marjana	Marjan	samostalnik	Slmer	sklon=rodilnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+5	Jereba	Jereb	samostalnik	Slmer	sklon=rodilnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+6	bo	biti	glagol	Gp-pte-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+7	načrt	načrt	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+8	zdravstvenega	zdravstven	pridevnik	Ppnser	sklon=rodilnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+9	varstva	varstvo	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+10	,	,	ločilo	U	_	_	_	_	_
+11	za	za	predlog	Do	sklon=orodnik	_	_	_	_
+12	katerim	kateri	zaimek	Zv-meo	sklon=orodnik|spol=moški|vrsta=vprašalni|število=ednina	_	_	_	_
+13	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+14	druga	drug	števnik	Kbzzei	sklon=imenovalnik|spol=ženski|vrsta=zaimkovni|zapis=besedni|število=ednina	_	_	_	_
+15	obravnava	obravnava	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+16	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+17	državnem	državen	pridevnik	Ppnmem	sklon=mestnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+18	zboru	zbor	samostalnik	Somem	sklon=mestnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+19	,	,	ločilo	U	_	_	_	_	_
+20	končno	končno	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+21	omogočil	omogočiti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+22	koherentno	koherenten	pridevnik	Ppnzet	sklon=tožilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+23	politiko	politika	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+24	zdravstva	zdravstvo	samostalnik	Soser	sklon=rodilnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+25	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+26	njegovega	njegov	zaimek	Zstmeres	oseba=tretja|sklon=rodilnik|spol=moški|spol_svojine=srednji|vrsta=svojilni|število=ednina|število_svojine=ednina	_	_	_	_
+27	razvoja	razvoj	samostalnik	Somer	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+28	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF8212861
+# title = Delo
+# publisher = 1998-10-12
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 1998-10-12
+# term = print / periodic / newspaper
+# newpar id = GF8212861.30
+# sent_id = GF8212861.30.1
+# text = V poljski reprezentanci in pri vaših dveh prejšnjih ekipah ste igrali na mestu leve zunanje igralke, medtem ko vam je Kandija namenil vlogo desne zunanje.
+1	V	v	predlog	Dm	sklon=mestnik	_	_	_	_
+2	poljski	poljski	pridevnik	Ppnzem	sklon=mestnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+3	reprezentanci	reprezentanca	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+4	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+5	pri	pri	predlog	Dm	sklon=mestnik	_	_	_	_
+6	vaših	vaš	zaimek	Zsdzdmm	oseba=druga|sklon=mestnik|spol=ženski|vrsta=svojilni|število=dvojina|število_svojine=množina	_	_	_	_
+7	dveh	dva	števnik	Kbgzdm	sklon=mestnik|spol=ženski|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+8	prejšnjih	prejšnji	pridevnik	Ppnzdm	sklon=mestnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=dvojina	_	_	_	_
+9	ekipah	ekipa	samostalnik	Sozdm	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=dvojina	_	_	_	_
+10	ste	biti	glagol	Gp-sdm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=druga|vrsta=pomožni|število=množina	_	_	_	_
+11	igrali	igrati	glagol	Ggnd-mm	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=množina	_	_	_	_
+12	na	na	predlog	Dm	sklon=mestnik	_	_	_	_
+13	mestu	mesto	samostalnik	Sosem	sklon=mestnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+14	leve	lev	pridevnik	Ppnzer	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+15	zunanje	zunanji	pridevnik	Ppnzer	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+16	igralke	igralka	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+17	,	,	ločilo	U	_	_	_	_	_
+18	medtem	medtem	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+19	ko	ko	veznik	Vd	vrsta=podredni	_	_	_	_
+20	vam	ti	zaimek	Zod-md	oseba=druga|sklon=dajalnik|vrsta=osebni|število=množina	_	_	_	_
+21	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+22	Kandija	Kandija	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+23	namenil	nameniti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+24	vlogo	vloga	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+25	desne	desen	pridevnik	Ppnzer	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+26	zunanje	zunanji	pridevnik	Ppnzer	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	SpaceAfter=No
+27	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF4715760
+# title = Družinske parabole
+# publisher = 2005
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = Gojmir Polajnar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2005
+# term = print / book / fiction
+# newpar id = GF4715760.298
+# sent_id = GF4715760.298.3
+# text = Na zadnjem sedežu z baldahinom je bilo komaj prostora za dva, toplota je prehajala med njunima telesoma in Magda je žarela kakor razbeljeno železo, ko je Giovanni položil desno roko na njen hrbet, z levo pa usmerjal taksista, ki je krmilil med luknjami na cesti, da se je neprestano naslanjala na Giovannijevo ramo.
+1	Na	na	predlog	Dm	sklon=mestnik	_	_	_	_
+2	zadnjem	zadnji	pridevnik	Ppnmem	sklon=mestnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+3	sedežu	sedež	samostalnik	Somem	sklon=mestnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+4	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+5	baldahinom	baldahin	samostalnik	Someo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+6	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+7	bilo	biti	glagol	Gp-d-es	oblika=deležnik|spol=srednji|vrsta=pomožni|število=ednina	_	_	_	_
+8	komaj	komaj	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+9	prostora	prostor	samostalnik	Somer	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+10	za	za	predlog	Dt	sklon=tožilnik	_	_	_	_
+11	dva	dva	števnik	Kbgmdt	sklon=tožilnik|spol=moški|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	SpaceAfter=No
+12	,	,	ločilo	U	_	_	_	_	_
+13	toplota	toplota	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+14	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+15	prehajala	prehajati	glagol	Ggnd-ez	oblika=deležnik|spol=ženski|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+16	med	med	predlog	Do	sklon=orodnik	_	_	_	_
+17	njunima	njun	zaimek	Zstsdod	oseba=tretja|sklon=orodnik|spol=srednji|vrsta=svojilni|število=dvojina|število_svojine=dvojina	_	_	_	_
+18	telesoma	telo	samostalnik	Sosdo	sklon=orodnik|spol=srednji|vrsta=občno_ime|število=dvojina	_	_	_	_
+19	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+20	Magda	Magda	samostalnik	Slzei	sklon=imenovalnik|spol=ženski|vrsta=lastno_ime|število=ednina	_	_	_	_
+21	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+22	žarela	žareti	glagol	Ggnd-ez	oblika=deležnik|spol=ženski|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+23	kakor	kakor	veznik	Vd	vrsta=podredni	_	_	_	_
+24	razbeljeno	razbeljen	pridevnik	Pdnsei	sklon=imenovalnik|spol=srednji|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	_
+25	železo	železo	samostalnik	Sosei	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+26	,	,	ločilo	U	_	_	_	_	_
+27	ko	ko	veznik	Vd	vrsta=podredni	_	_	_	_
+28	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+29	Giovanni	Giovanni	samostalnik	Slmei	sklon=imenovalnik|spol=moški|vrsta=lastno_ime|število=ednina	_	_	_	_
+30	položil	položiti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+31	desno	desen	pridevnik	Ppnzet	sklon=tožilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+32	roko	roka	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+33	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+34	njen	njen	zaimek	Zstmetez	oseba=tretja|sklon=tožilnik|spol=moški|spol_svojine=ženski|vrsta=svojilni|število=ednina|število_svojine=ednina	_	_	_	_
+35	hrbet	hrbet	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	SpaceAfter=No
+36	,	,	ločilo	U	_	_	_	_	_
+37	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+38	levo	lev	pridevnik	Ppnzet	sklon=tožilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+39	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+40	usmerjal	usmerjati	glagol	Ggnd-em	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+41	taksista	taksist	samostalnik	Sometd	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=da	_	_	_	SpaceAfter=No
+42	,	,	ločilo	U	_	_	_	_	_
+43	ki	ki	veznik	Vd	vrsta=podredni	_	_	_	_
+44	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+45	krmilil	krmiliti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+46	med	med	predlog	Do	sklon=orodnik	_	_	_	_
+47	luknjami	luknja	samostalnik	Sozmo	sklon=orodnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+48	na	na	predlog	Dm	sklon=mestnik	_	_	_	_
+49	cesti	cesta	samostalnik	Sozem	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+50	,	,	ločilo	U	_	_	_	_	_
+51	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+52	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+53	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+54	neprestano	neprestano	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+55	naslanjala	naslanjati	glagol	Ggnd-ez	oblika=deležnik|spol=ženski|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+56	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+57	Giovannijevo	Giovannijev	pridevnik	Psnzet	sklon=tožilnik|spol=ženski|stopnja=nedoločeno|vrsta=svojilni|število=ednina	_	_	_	_
+58	ramo	rama	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+59	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0569481
+# title = Delo
+# publisher = 2003-04-06
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2003-04-06
+# term = print / periodic / newspaper
+# newpar id = GF0569481.42
+# sent_id = GF0569481.42.3
+# text = Prepovedane so satelitske antene in satelitski telefoni, zato pa se v restavracijah je dobra arabska hrana (mezguf je iraška specialiteta - razpolovljen krap pečen na žaru in v dimu).
+1	Prepovedane	prepovedan	pridevnik	Pdnzmi	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=deležniški|število=množina	_	_	_	_
+2	so	biti	glagol	Gp-stm-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=množina	_	_	_	_
+3	satelitske	satelitski	pridevnik	Ppnzmi	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+4	antene	antena	samostalnik	Sozmi	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+5	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+6	satelitski	satelitski	pridevnik	Ppnmmi	sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+7	telefoni	telefon	samostalnik	Sommi	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	SpaceAfter=No
+8	,	,	ločilo	U	_	_	_	_	_
+9	zato	zato	veznik	Vp	vrsta=priredni	_	_	_	_
+10	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+11	se	se	zaimek	Zp------k	naslonskost=klitična|vrsta=povratni	_	_	_	_
+12	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+13	restavracijah	restavracija	samostalnik	Sozmm	sklon=mestnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+14	je	jesti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+15	dobra	dober	pridevnik	Ppnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+16	arabska	arabski	pridevnik	Ppnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+17	hrana	hrana	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+18	(	(	ločilo	U	_	_	_	_	SpaceAfter=No
+19	mezguf	mezguf	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+20	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+21	iraška	iraški	pridevnik	Ppnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+22	specialiteta	specialiteta	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+23	-	-	ločilo	U	_	_	_	_	_
+24	razpolovljen	razpolovljen	pridevnik	Pdnmein	določnost=ne|sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	_
+25	krap	krap	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+26	pečen	pečen	pridevnik	Pdnmein	določnost=ne|sklon=imenovalnik|spol=moški|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	_
+27	na	na	predlog	Dm	sklon=mestnik	_	_	_	_
+28	žaru	žar	samostalnik	Somem	sklon=mestnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+29	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+30	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+31	dimu	dim	samostalnik	Somem	sklon=mestnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+32	)	)	ločilo	U	_	_	_	_	SpaceAfter=No
+33	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF0539938
+# title = Delo
+# publisher = 2008
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2008
+# term = print / periodic / newspaper
+# newpar id = GF0539938.28992
+# sent_id = GF0539938.28992.2
+# text = V drugem najmočnejšem evropskem klubskem tekmovanju sta tako odprti še dve prosti mesti, o njiju pa bo odločal žreb.
+1	V	v	predlog	Dm	sklon=mestnik	_	_	_	_
+2	drugem	drug	števnik	Kbzsem	sklon=mestnik|spol=srednji|vrsta=zaimkovni|zapis=besedni|število=ednina	_	_	_	_
+3	najmočnejšem	močen	pridevnik	Ppssem	sklon=mestnik|spol=srednji|stopnja=presežnik|vrsta=splošni|število=ednina	_	_	_	_
+4	evropskem	evropski	pridevnik	Ppnsem	sklon=mestnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+5	klubskem	klubski	pridevnik	Ppnsem	sklon=mestnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+6	tekmovanju	tekmovanje	samostalnik	Sosem	sklon=mestnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+7	sta	biti	glagol	Gp-std-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=dvojina	_	_	_	_
+8	tako	tako	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+9	odprti	odprt	pridevnik	Pdnsdi	sklon=imenovalnik|spol=srednji|stopnja=nedoločeno|vrsta=deležniški|število=dvojina	_	_	_	_
+10	še	še	členek	L	_	_	_	_	_
+11	dve	dva	števnik	Kbgsdi	sklon=imenovalnik|spol=srednji|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+12	prosti	prost	pridevnik	Ppnsdi	sklon=imenovalnik|spol=srednji|stopnja=nedoločeno|vrsta=splošni|število=dvojina	_	_	_	_
+13	mesti	mesto	samostalnik	Sosdi	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+14	,	,	ločilo	U	_	_	_	_	_
+15	o	o	predlog	Dm	sklon=mestnik	_	_	_	_
+16	njiju	on	zaimek	Zotsdm	oseba=tretja|sklon=mestnik|spol=srednji|vrsta=osebni|število=dvojina	_	_	_	_
+17	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+18	bo	biti	glagol	Gp-pte-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+19	odločal	odločati	glagol	Ggnd-em	oblika=deležnik|spol=moški|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+20	žreb	žreb	samostalnik	Somei	sklon=imenovalnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+21	.	.	ločilo	U	_	_	_	_	_
+
+# newpar id = GF0539938.34902
+# sent_id = GF0539938.34902.5
+# text = Sodstvo posebej ceni to, da je v svojih nastopih opozoril na širšo problematiko položaja sodne veje oblasti, zlasti v razmerju do drugih dveh vej, saj je oženje javne razprave na problem sodniških plač neustrezno in zavajajoče.
+1	Sodstvo	sodstvo	samostalnik	Sosei	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+2	posebej	posebej	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+3	ceni	ceniti	glagol	Ggnste	oblika=sedanjik|oseba=tretja|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+4	to	ta	zaimek	Zk-set	sklon=tožilnik|spol=srednji|vrsta=kazalni|število=ednina	_	_	_	SpaceAfter=No
+5	,	,	ločilo	U	_	_	_	_	_
+6	da	da	veznik	Vd	vrsta=podredni	_	_	_	_
+7	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+8	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+9	svojih	svoj	zaimek	Zp-mmm	sklon=mestnik|spol=moški|vrsta=povratni|število=množina	_	_	_	_
+10	nastopih	nastop	samostalnik	Sommm	sklon=mestnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+11	opozoril	opozoriti	glagol	Ggdd-em	oblika=deležnik|spol=moški|vid=dovršni|vrsta=glavni|število=ednina	_	_	_	_
+12	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+13	širšo	širok	pridevnik	Pppzet	sklon=tožilnik|spol=ženski|stopnja=primernik|vrsta=splošni|število=ednina	_	_	_	_
+14	problematiko	problematika	samostalnik	Sozet	sklon=tožilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+15	položaja	položaj	samostalnik	Somer	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=ednina	_	_	_	_
+16	sodne	soden	pridevnik	Ppnzer	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+17	veje	veja	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+18	oblasti	oblast	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	SpaceAfter=No
+19	,	,	ločilo	U	_	_	_	_	_
+20	zlasti	zlasti	členek	L	_	_	_	_	_
+21	v	v	predlog	Dm	sklon=mestnik	_	_	_	_
+22	razmerju	razmerje	samostalnik	Sosem	sklon=mestnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+23	do	do	predlog	Dr	sklon=rodilnik	_	_	_	_
+24	drugih	drug	števnik	Kbzzdr	sklon=rodilnik|spol=ženski|vrsta=zaimkovni|zapis=besedni|število=dvojina	_	_	_	_
+25	dveh	dva	števnik	Kbgzdr	sklon=rodilnik|spol=ženski|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+26	vej	veja	samostalnik	Sozdr	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+27	,	,	ločilo	U	_	_	_	_	_
+28	saj	saj	veznik	Vp	vrsta=priredni	_	_	_	_
+29	je	biti	glagol	Gp-ste-n	nikalnost=nezanikani|oblika=sedanjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+30	oženje	oženje	samostalnik	Sosei	sklon=imenovalnik|spol=srednji|vrsta=občno_ime|število=ednina	_	_	_	_
+31	javne	javen	pridevnik	Ppnzer	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+32	razprave	razprava	samostalnik	Sozer	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+33	na	na	predlog	Dt	sklon=tožilnik	_	_	_	_
+34	problem	problem	samostalnik	Sometn	sklon=tožilnik|spol=moški|vrsta=občno_ime|število=ednina|živost=ne	_	_	_	_
+35	sodniških	sodniški	pridevnik	Ppnzmr	sklon=rodilnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=množina	_	_	_	_
+36	plač	plača	samostalnik	Sozmr	sklon=rodilnik|spol=ženski|vrsta=občno_ime|število=množina	_	_	_	_
+37	neustrezno	neustrezen	pridevnik	Pdnsei	sklon=imenovalnik|spol=srednji|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	_
+38	in	in	veznik	Vp	vrsta=priredni	_	_	_	_
+39	zavajajoče	zavajajoč	pridevnik	Pdnsei	sklon=imenovalnik|spol=srednji|stopnja=nedoločeno|vrsta=deležniški|število=ednina	_	_	_	SpaceAfter=No
+40	.	.	ločilo	U	_	_	_	_	_
+
+# newdoc id = GF5201914
+# title = Val
+# publisher = 2004-10
+# handle = http://hdl.handle.net/11356/1285
+# source = Ambiga
+# author = neznani novinar
+# edition = 2.0
+# dedup_status = nodup
+# date = 2004-10
+# term = print / periodic / magazine
+# newpar id = GF5201914.13
+# sent_id = GF5201914.13.6
+# text = Notranja razporeditev prostorov bo zagotovo bolj ugajala družini z dvema otrokoma kot pa dvema starejšima paroma.
+1	Notranja	notranji	pridevnik	Ppnzei	sklon=imenovalnik|spol=ženski|stopnja=nedoločeno|vrsta=splošni|število=ednina	_	_	_	_
+2	razporeditev	razporeditev	samostalnik	Sozei	sklon=imenovalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+3	prostorov	prostor	samostalnik	Sommr	sklon=rodilnik|spol=moški|vrsta=občno_ime|število=množina	_	_	_	_
+4	bo	biti	glagol	Gp-pte-n	nikalnost=nezanikani|oblika=prihodnjik|oseba=tretja|vrsta=pomožni|število=ednina	_	_	_	_
+5	zagotovo	zagotovo	prislov	Rsn	stopnja=nedoločeno|vrsta=splošni	_	_	_	_
+6	bolj	bolj	prislov	Rsr	stopnja=primernik|vrsta=splošni	_	_	_	_
+7	ugajala	ugajati	glagol	Ggnd-ez	oblika=deležnik|spol=ženski|vid=nedovršni|vrsta=glavni|število=ednina	_	_	_	_
+8	družini	družina	samostalnik	Sozed	sklon=dajalnik|spol=ženski|vrsta=občno_ime|število=ednina	_	_	_	_
+9	z	z	predlog	Do	sklon=orodnik	_	_	_	_
+10	dvema	dva	števnik	Kbgmdo	sklon=orodnik|spol=moški|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+11	otrokoma	otrok	samostalnik	Somdo	sklon=orodnik|spol=moški|vrsta=občno_ime|število=dvojina	_	_	_	_
+12	kot	kot	veznik	Vd	vrsta=podredni	_	_	_	_
+13	pa	pa	veznik	Vp	vrsta=priredni	_	_	_	_
+14	dvema	dva	števnik	Kbgmdd	sklon=dajalnik|spol=moški|vrsta=glavni|zapis=besedni|število=dvojina	_	_	_	_
+15	starejšima	star	pridevnik	Pppmdd	sklon=dajalnik|spol=moški|stopnja=primernik|vrsta=splošni|število=dvojina	_	_	_	_
+16	paroma	par	samostalnik	Somdd	sklon=dajalnik|spol=moški|vrsta=občno_ime|število=dvojina	_	_	_	SpaceAfter=No
+17	.	.	ločilo	U	_	_	_	_	_
+
