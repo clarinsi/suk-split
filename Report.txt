@@ -1,0 +1,73 @@
+ssj-ud: 
+ sents in train:10903 
+ dev:1250 
+ test:1282
+% sents in train:81.15370301451433 
+ dev:9.304056568663938 
+ test:9.542240416821734
+no. of tokens: 
+ train:215155 
+ dev:26500 
+ test:25442
+% of tok in train:80.55313238261755 
+ dev:9.92148919680865 
+ test:9.5253784205738
+ambiga: 
+ sents in train:487 
+ dev:60 
+ test:56
+% sents in train:80.76285240464345 
+ dev:9.950248756218906 
+ test:9.286898839137644
+no. of tokens: 
+ train:13757 
+ dev:1660 
+ test:1626
+% of tok in train:80.71935692072992 
+ dev:9.740069236636742 
+ test:9.54057384263334
+senticoref: 
+ sents in train:14109 
+ dev:2035 
+ test:1998
+% sents in train:77.76981589681402 
+ dev:11.217065373167236 
+ test:11.013118730018741
+no. of tokens: 
+ train:306638 
+ dev:44547 
+ test:43245
+% of tok in train:77.74205815987628 
+ dev:11.294019217605152 
+ test:10.96392262251857
+ssj500k-tag: 
+ sents in train:13362 
+ dev:1375 
+ test:1677
+% sents in train:81.40611672962106 
+ dev:8.37699524795906 
+ test:10.216888022419885
+no. of tokens: 
+ train:278156 
+ dev:28553 
+ test:37480
+% of tok in train:80.81490111537556 
+ dev:8.295732867697689 
+ test:10.889366016926747
+
+----------------------------------------
+
+SUK total: 
+ sents in train:38861 
+ dev:4720 
+ test:5013
+% sents in train:79.97077828538502 
+ dev:9.713133308638927 
+ test:10.316088405976046
+no. of tokens: 
+ train:813706 
+ dev:101260 
+ test:107793
+% of tok in train:79.55989631966084 
+ dev:9.900670636973128 
+ test:10.539433043366033
