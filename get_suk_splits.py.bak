@@ -31,7 +31,7 @@ def write_ssjud_splits(split, subcorpus, id_list, label_type):
     print(f"SUK_{split}/SUK_{subcorpus}_{label_type}_{split}.conllu done!")
 
 
-write_ssjud_splits("train", "ssj500k-syn", ssjud_train_ids, "jos")
+"""write_ssjud_splits("train", "ssj500k-syn", ssjud_train_ids, "jos")
 write_ssjud_splits("dev", "ssj500k-syn", ssjud_dev_ids, "jos")
 write_ssjud_splits("test", "ssj500k-syn", ssjud_test_ids, "jos")
 write_ssjud_splits("train", "ssj500k-syn", ssjud_train_ids, "ud")
@@ -42,7 +42,7 @@ write_ssjud_splits("dev", "elexiswsd", ssjud_dev_ids, "jos")
 write_ssjud_splits("test", "elexiswsd", ssjud_test_ids, "jos")
 write_ssjud_splits("train", "elexiswsd", ssjud_train_ids, "ud")
 write_ssjud_splits("dev", "elexiswsd", ssjud_dev_ids, "ud")
-write_ssjud_splits("test", "elexiswsd", ssjud_test_ids, "ud")
+write_ssjud_splits("test", "elexiswsd", ssjud_test_ids, "ud")"""
 
 
 # Write the train split for the other subcorpora. rnd < 0.8 should be true 80% of the time. At the end, store
