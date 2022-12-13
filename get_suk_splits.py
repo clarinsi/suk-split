@@ -1,7 +1,7 @@
 import conllu
 import random
 
-random.seed(102)
+random.seed(94)
 
 
 # Read sent ids for ssj-ud splits from prepared files
@@ -50,6 +50,7 @@ write_ssjud_splits("test", "elexiswsd", ssjud_test_ids, "ud")
 def write_suk_train_splits(subcorpus, label_type):
     with open(f"SUK_train/SUK_{subcorpus}_{label_type}_train.conllu", "w", encoding="UTF-8") as write_file:
         with open(f"SUK_conllu/{subcorpus}.{label_type}.conllu", "r", encoding="UTF-8") as read_file:
+            random.seed(94)
             ids_in_train = []
             sentences = conllu.parse(read_file.read())
             for tokenlist in sentences:
@@ -120,60 +121,60 @@ def write_suk_devtest(subcorpus):
 
     ids_indev = []
     ids_intest = []
-    with open(f"SUK_conllu/{subcorpus}.jos.conllu", "r", encoding="UTF-8") as read_file:
-        all_sentences = conllu.parse(read_file.read())
-        with open(f"SUK_dev/SUK_{subcorpus}_jos_dev.conllu", "w", encoding="UTF-8") as write_dev:
+    with open(f"SUK_conllu/{subcorpus}.jos.conllu", "r", encoding="UTF-8") as jos_read_file:
+        all_sentences = conllu.parse(jos_read_file.read())
+        with open(f"SUK_dev/SUK_{subcorpus}_jos_dev.conllu", "w", encoding="UTF-8") as jos_write_dev:
             for sent_indev in list_indev:
                 for tokenlist in all_sentences:
                     if sent_indev in tokenlist.metadata["sent_id"]:
                         ids_indev.append(tokenlist.metadata["sent_id"])
-                        write_dev.write(tokenlist.serialize())
+                        jos_write_dev.write(tokenlist.serialize())
                         # Write subsequent sentences until you reach the next document or the end of the file.
                         for next_tokenlist in all_sentences[all_sentences.index(tokenlist) + 1:]:
                             if "newdoc id" in next_tokenlist.metadata.keys():
                                 break
                             ids_indev.append(next_tokenlist.metadata["sent_id"])
-                            write_dev.write(next_tokenlist.serialize())
+                            jos_write_dev.write(next_tokenlist.serialize())
                         break
 
-        with open(f"SUK_test/SUK_{subcorpus}_jos_test.conllu", "w", encoding="UTF-8") as write_test:
+        with open(f"SUK_test/SUK_{subcorpus}_jos_test.conllu", "w", encoding="UTF-8") as jos_write_test:
             for sent_intest in list_intest:
                 for tokenlist in all_sentences:
                     if sent_intest in tokenlist.metadata["sent_id"]:
                         ids_intest.append(tokenlist.metadata["sent_id"])
-                        write_test.write(tokenlist.serialize())
+                        jos_write_test.write(tokenlist.serialize())
                         # Write subsequent sentences until you reach the next document or the end of the file.
                         for next_tokenlist in all_sentences[all_sentences.index(tokenlist) + 1:]:
                             if "newdoc id" in next_tokenlist.metadata.keys():
                                 break
                             ids_intest.append(next_tokenlist.metadata["sent_id"])
-                            write_test.write(next_tokenlist.serialize())
+                            jos_write_test.write(next_tokenlist.serialize())
                         break
 
-    with open(f"SUK_conllu/{subcorpus}.ud.conllu", "r", encoding="UTF-8") as read_file:
-        all_sentences = conllu.parse(read_file.read())
-        with open(f"SUK_dev/SUK_{subcorpus}_ud_dev.conllu", "w", encoding="UTF-8") as write_dev:
+    with open(f"SUK_conllu/{subcorpus}.ud.conllu", "r", encoding="UTF-8") as ud_read_file:
+        all_sentences = conllu.parse(ud_read_file.read())
+        with open(f"SUK_dev/SUK_{subcorpus}_ud_dev.conllu", "w", encoding="UTF-8") as ud_write_dev:
             for sent_indev in list_indev:
                 for tokenlist in all_sentences:
                     if sent_indev in tokenlist.metadata["sent_id"]:
-                        write_dev.write(tokenlist.serialize())
+                        ud_write_dev.write(tokenlist.serialize())
                         # Write subsequent sentences until you reach the next document or the end of the file.
                         for next_tokenlist in all_sentences[all_sentences.index(tokenlist) + 1:]:
                             if "newdoc id" in next_tokenlist.metadata.keys():
                                 break
-                            write_dev.write(next_tokenlist.serialize())
+                            ud_write_dev.write(next_tokenlist.serialize())
                         break
 
-        with open(f"SUK_test/SUK_{subcorpus}_ud_test.conllu", "w", encoding="UTF-8") as write_test:
+        with open(f"SUK_test/SUK_{subcorpus}_ud_test.conllu", "w", encoding="UTF-8") as ud_write_test:
             for sent_intest in list_intest:
                 for tokenlist in all_sentences:
                     if sent_intest in tokenlist.metadata["sent_id"]:
-                        write_test.write(tokenlist.serialize())
+                        ud_write_test.write(tokenlist.serialize())
                         # Write subsequent sentences until you reach the next document or the end of the file.
                         for next_tokenlist in all_sentences[all_sentences.index(tokenlist) + 1:]:
                             if "newdoc id" in next_tokenlist.metadata.keys():
                                 break
-                            write_test.write(next_tokenlist.serialize())
+                            ud_write_test.write(next_tokenlist.serialize())
                         break
 
     with open(f"SUK_dev/SUK_{subcorpus}_dev_ids.txt", "w", encoding="UTF-8") as write_devids:
@@ -214,22 +215,22 @@ def get_subcorpus_split_length(subcorpus):
 
 def get_subcorpus_tokenno(subcorpus):
     with open(f"SUK_train/SUK_{subcorpus}_jos_train.conllu", "r", encoding="UTF-8") as read_train:
+        train_sents = conllu.parse(read_train.read())
         train_tokenno = 0
-        for line in read_train:
-            if not line.startswith("#") and not line.startswith("\n"):
-                train_tokenno += 1
+        for train_sent in train_sents:
+            train_tokenno += len(train_sent)
 
     with open(f"SUK_dev/SUK_{subcorpus}_jos_dev.conllu", "r", encoding="UTF-8") as read_dev:
+        dev_sents = conllu.parse(read_dev.read())
         dev_tokenno = 0
-        for line in read_dev:
-            if not line.startswith("#") and not line.startswith("\n"):
-                dev_tokenno += 1
+        for dev_sent in dev_sents:
+            dev_tokenno += len(dev_sent)
 
     with open(f"SUK_test/SUK_{subcorpus}_jos_test.conllu", "r", encoding="UTF-8") as read_test:
+        test_sents = conllu.parse(read_test.read())
         test_tokenno = 0
-        for line in read_test:
-            if not line.startswith("#") and not line.startswith("\n"):
-                test_tokenno += 1
+        for test_sent in test_sents:
+            test_tokenno += len(test_sent)
 
     return train_tokenno, dev_tokenno, test_tokenno
 
