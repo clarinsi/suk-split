@@ -22,12 +22,19 @@ ssjud_test_ids = read_ids("test")
 def write_ssjud_splits(split, subcorpus, id_list, label_type):
     with open(f"SUK_{split}/SUK_{subcorpus}_{label_type}_{split}.conllu", "w", encoding="UTF-8") as write_file:
         with open(f"SUK_conllu/{subcorpus}.{label_type}.conllu", "r", encoding="UTF-8") as read_file:
+            ids_in_file = []
             sentences = conllu.parse(read_file.read())
             for prepared_id in id_list:
                 for tokenlist in sentences:
                     if prepared_id in tokenlist.metadata["sent_id"]:
                         write_file.write(tokenlist.serialize())
+                        ids_in_file.append(tokenlist.metadata["sent_id"])
                         break
+
+    with open(f"SUK_{split}/SUK_{subcorpus}_{split}_ids.txt", "w", encoding="UTF-8") as write_id_file:
+        for ele in ids_in_file:
+            write_id_file.write(ele + "\n")
+
     print(f"SUK_{split}/SUK_{subcorpus}_{label_type}_{split}.conllu done!")
 
 
