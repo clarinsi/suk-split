@@ -7,4 +7,6 @@ The files are split into train:dev:test according to document boundaries, so doc
 
 The code is contained in get_suk_splits.py. SUK_conllu contains the entire SUK corpus, while SUK_train, SUK_dev and SUK_test contain the split files and the sentence ids for each subcorpus. ssj-ud_ids contains the sentence ids for SSJ-UD. Statistics.txt contains the sizes and percentages for each subcorpus and split.
 
+The same procedure was used to create splits for the [Janes-Tag 3.0](http://hdl.handle.net/11356/1732) training corpus. The original corpus, splits, split statistics and a slightly more polished (but still messy) python script are contained in the Janes-Tag.3.0 directory. 
+
 The python [conllu](https://pypi.org/project/conllu/) package is required to run the script.

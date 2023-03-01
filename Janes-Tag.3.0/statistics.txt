@@ -1,0 +1,50 @@
+rsdo: 
+ sents in train:15596 
+ dev:2062 
+ test:2004
+% sents in train:79.32051673278406 
+ dev:10.487234258976706 
+ test:10.192249008239243
+no. of tokens: 
+ train:115836 
+ dev:15383 
+ test:14987
+% of tok in train:79.22793866188802 
+ dev:10.521456027796397 
+ test:10.250605310315581
+
+tag: 
+ sents in train:6146 
+ dev:828 
+ test:807
+% sents in train:78.987276699653 
+ dev:10.641305744762883 
+ test:10.371417555584115
+no. of tokens: 
+ train:59681 
+ dev:8195 
+ test:8050
+% of tok in train:78.60416721544662 
+ dev:10.793404103995996 
+ test:10.602428680557384
+
+-------------------------------------------------
+-------------------------------------------------
+
+Janes total: 
+ sents in train:21742 
+ dev:2890 
+ test:2811
+% sents in train:79.22603213934336 
+ dev:10.530918631344969 
+ test:10.243049229311664
+no. of tokens: 
+ train:175517 
+ dev:23578 
+ test:23037
+% of tok in train:79.01472998037204 
+ dev:10.614409450236796 
+ test:10.370860569391173
+ 
+Sents in Janes: 27443
+Tokens in Janes: 222132
